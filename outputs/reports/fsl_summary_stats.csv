@@ -1,4 +1,5 @@
 cluster_zone,total_households,mean_hh_size,mean_fcs,mean_rcsi,mean_hdds,pct_poor_fcs
-cluster_1,7,8.7,54.8,23.1,7.1,0
-cluster_2,3,4.3,60.3,25.3,5.7,0
-cluster_3,5,5.4,76.3,19.2,6,0
+cluster_goma_nord,245,5.6,51.3,28.4,6.3,2
+cluster_goma_sud,232,5.5,51.1,29.4,6.3,2.2
+cluster_masisi_ref,165,5.5,51,27.8,6.4,0.6
+cluster_nyiragongo,158,5.3,49.8,27.9,6.4,0.6

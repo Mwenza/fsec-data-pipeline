@@ -2,7 +2,7 @@
 # Projet : FSEC Data Pipeline - Food Security & MEAL Analytics
 # Fichier : R/02_clean_data.R
 # Auteur : Mwenza Bwira
-# Description : Nettoyage, typage et standardisation des données brutes
+# Description : Nettoyage, typage et standardisation des données brutes (N = 800)
 # ==============================================================================
 
 # 1. Chargement des packages
@@ -21,10 +21,10 @@ if (!file.exists(input_path)) {
 
 raw_data <- readRDS(input_path)
 
-# 3. Traitement et nettoyage
+# 3. Traitement et nettoyage approfondi
 clean_data <- raw_data %>%
-  # Nettoyage global des chaînes de caractères (suppression des espaces superflus)
-  mutate(across(where(is.character), str_trim)) %>%
+  # Nettoyage global des chaînes de caractères (suppression des espaces superflus et mise en minuscules)
+  mutate(across(where(is.character), ~ str_to_lower(str_trim(.)))) %>%
   
   # Conversion et sécurisation des types de variables numériques
   mutate(
@@ -42,12 +42,11 @@ clean_data <- raw_data %>%
   # Remplacement des éventuelles valeurs négatives accidentelles par NA (sécurité)
   mutate(
     respondent_age = ifelse(respondent_age < 0, NA, respondent_age),
-    hh_size = ifelse(hh_size < 0, NA, hh_size)
+    hh_size = ifelse(hh_size < 0, NA, hh_size),
+    children_u5 = ifelse(children_u5 < 0, NA, children_u5)
   )
 
 # 4. Sauvegarde des données nettoyées
 saveRDS(clean_data, output_path)
 
-message(paste0("--> Étape 02 terminée avec succès ! ", nrow(clean_data <- clean_data), " lignes nettoyées et prêtes pour le DQA."))
-
-# ---
+message(paste0("--> Étape 02 terminée avec succès ! ", nrow(clean_data), " lignes nettoyées et prêtes pour le DQA."))

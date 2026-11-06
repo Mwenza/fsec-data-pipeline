@@ -2,7 +2,7 @@
 # Projet : FSEC Data Pipeline - Food Security & MEAL Analytics
 # Fichier : R/05_analyze_data.R
 # Auteur : Mwenza Bwira
-# Description : Analyses descriptives et agrégations des indicateurs FSL par zone
+# Description : Analyses descriptives et agrégations des indicateurs FSL par zone (N = 800)
 # ==============================================================================
 
 # 1. Chargement des packages
@@ -42,6 +42,3 @@ dir.create("outputs/reports", showWarnings = FALSE, recursive = TRUE)
 write_csv(fsl_summary_by_zone, output_summary_path)
 
 message(paste0("--> Étape 05 terminée avec succès ! Tableau de synthèse exporté dans '", output_summary_path, "'."))
-
-
-# ---

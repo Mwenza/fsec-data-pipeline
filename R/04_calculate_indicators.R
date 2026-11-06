@@ -2,14 +2,14 @@
 # Projet : FSEC Data Pipeline - Food Security & MEAL Analytics
 # Fichier : R/04_calculate_indicators.R
 # Auteur : Mwenza Bwira
-# Description : Calcul des indicateurs standardisés FSL (FCS, rCSI, HDDS, HHS)
+# Description : Calcul des indicateurs standardisés FSL (FCS, rCSI, HDDS) pour N = 800
 # ==============================================================================
 
 # 1. Chargement des packages
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(tidyverse, janitor)
 
-message("--> Début de l'étape 04 : Calcul des indicateurs FSL...")
+message("--> Début de l'étape 04 : Calcul des indicateurs FSL (N = 800)...")
 
 # 2. Chargement des données nettoyées
 input_path <- "data/processed/02_cleaned_data.rds"
@@ -21,7 +21,7 @@ if (!file.exists(input_path)) {
 
 data <- readRDS(input_path)
 
-# 3. Calcul des Indicateurs FSL
+# 3. Calcul des Indicateurs FSL selon les méthodologies standard (PAM / FAO)
 indicators_data <- data %>%
   mutate(
     # A. Calcul du Food Consumption Score (FCS) avec pondérations standard PAM
@@ -51,7 +51,7 @@ indicators_data <- data %>%
       (rcsi_reduce_adults * 3) + 
       (rcsi_reduce_meals * 1),
     
-    # C. Calcul du Household Dietary Diversity Score (HDDS) (Somme des 'yes' sur 12 groupes)
+    # C. Calcul du Household Dietary Diversity Score (HDDS) (Somme des 'yes' sur les groupes alimentaires)
     hdds_score = (hdds_cereals == "yes") + (hdds_roots == "yes") + 
       (hdds_vegetables == "yes") + (hdds_fruits == "yes") + 
       (hdds_meat == "yes") + (hdds_eggs == "yes") + 
@@ -64,7 +64,4 @@ indicators_data <- data %>%
 dir.create("data/processed", showWarnings = FALSE, recursive = TRUE)
 saveRDS(indicators_data, output_path)
 
-message(paste0("--> Étape 04 terminée avec succès ! Indicateurs FSL calculés pour ", nrow(indicators_data), " ménages."))
-
-
-# ---
+message(paste0("--> Étape 04 terminée avec succès ! Indicateurs FSL calculés et sauvegardés pour ", nrow(indicators_data), " ménages."))

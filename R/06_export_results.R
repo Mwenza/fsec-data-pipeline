@@ -2,7 +2,7 @@
 # Projet : FSEC Data Pipeline - Food Security & MEAL Analytics
 # Fichier : R/06_export_results.R
 # Auteur : Mwenza Bwira
-# Description : Exportation finale du dataset maître consolidé pour reporting
+# Description : Exportation finale du dataset maître consolidé pour reporting (N = 800)
 # ==============================================================================
 
 # 1. Chargement des packages
@@ -38,6 +38,3 @@ write_csv(final_export, output_master_csv)
 saveRDS(final_export, output_master_rds)
 
 message(paste0("--> Pipeline 100% R exécuté de bout en bout avec succès ! Dataset maître exporté dans : '", output_master_csv, "'."))
-
-
-# ---

@@ -2,14 +2,14 @@
 # Projet : FSEC Data Pipeline - Food Security & MEAL Analytics
 # Fichier : R/03_validate_dqa.R
 # Auteur : Mwenza Bwira
-# Description : Moteur DQA (Data Quality Assessment) et détection d'anomalies
+# Description : Moteur DQA (Data Quality Assessment) avancé et détection d'anomalies (N = 800)
 # ==============================================================================
 
 # 1. Chargement des packages
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(tidyverse, janitor)
 
-message("--> Début de l'étape 03 : Exécution du moteur DQA...")
+message("--> Début de l'étape 03 : Exécution du moteur DQA avancé...")
 
 # 2. Chargement des données nettoyées
 input_path <- "data/processed/02_cleaned_data.rds"
@@ -21,7 +21,7 @@ if (!file.exists(input_path)) {
 
 data <- readRDS(input_path)
 
-# 3. Contrôles de qualité (DQA Rules)
+# 3. Contrôles de qualité (DQA Rules sur N = 800 ménages)
 anomalies_list <- list()
 
 # Règle A : Détection des doublons d'identifiants ménages (hh_id)
@@ -51,13 +51,22 @@ if (nrow(invalid_age) > 0) {
   anomalies_list$age <- invalid_age %>% select(hh_id, anomaly_type)
 }
 
-# Règle D : Scores FCS hors limites (en dehors de 0 à 7 jours)
+# Règle D : Scores FCS hors limites (en dehors de 0 à 7 jours pour chaque groupe)
 invalid_fcs <- data %>%
   filter(across(starts_with("fcs_"), ~ . < 0 | . > 7) %>% rowSums() > 0) %>%
   mutate(anomaly_type = "Valeur aberrante : Score FCS hors intervalle [0-7]")
 
 if (nrow(invalid_fcs) > 0) {
   anomalies_list$fcs <- invalid_fcs %>% select(hh_id, anomaly_type)
+}
+
+# Règle E : Scores rCSI hors limites (en dehors de 0 à 7 jours)
+invalid_rcsi <- data %>%
+  filter(across(starts_with("rcsi_"), ~ . < 0 | . > 7) %>% rowSums() > 0) %>%
+  mutate(anomaly_type = "Valeur aberrante : Score rCSI hors intervalle [0-7]")
+
+if (nrow(invalid_rcsi) > 0) {
+  anomalies_list$rcsi <- invalid_rcsi %>% select(hh_id, anomaly_type)
 }
 
 # 4. Compilation et export du rapport d'anomalies
@@ -68,11 +77,7 @@ if (length(anomalies_list) > 0) {
   write_csv(dqa_report, output_report_path)
   message(sprintf("--> DQA terminé : %d anomalie(s) détectée(s) et consignées dans '%s'.", nrow(dqa_report), output_report_path))
 } else {
-  # Création d'un rapport vide mais structuré si aucune anomalie n'est trouvée
   dqa_report <- tibble(hh_id = character(), anomaly_type = character())
   write_csv(dqa_report, output_report_path)
   message("--> DQA terminé avec succès : Aucune anomalie critique détectée dans le jeu de données !")
 }
-
-
-# ---
