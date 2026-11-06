@@ -3,7 +3,7 @@
 ## 📋 Description du projet
 Ce projet présente un pipeline de données de bout en bout développé **100% en R**, conçu pour automatiser le traitement, le contrôle qualité et l'analyse des enquêtes de sécurité alimentaire et de suivi-évaluation (MEAL) dans le secteur humanitaire et du développement.
 
-Il intègre les standards méthodologiques du PAM (Programme WFP) et de la FAO pour la gestion des données de vulnérabilité. Cette version mise à jour gère un échantillon simulé robuste de **800 ménages** répartis dans les zones du Nord-Kivu (Goma, Nyiragongo, Masisi). Pour tester et visualiser le tableau de bord de ce projet veuillez cliquer [ici.](https://mwenza.shinyapps.io/dashboard/)
+Il intègre les standards méthodologiques du PAM (Programme WFP) et de la FAO pour la gestion des données de vulnérabilité. Cette version mise à jour gère un échantillon simulé robuste de **800 ménages** répartis dans les zones du Nord-Kivu (Goma, Nyiragongo, Masisi). Pour tester et visualiser le tableau de bord interactif de ce projet, veuillez cliquer [ici.](https://mwenza.shinyapps.io/dashboard/)
 
 ---
 
