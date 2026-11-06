@@ -1,0 +1,801 @@
+hh_id,interview_date,enumerator_id,cluster_zone,respondent_sex,respondent_age,hh_size,children_u5,fcs_score,fcs_cat,rcsi_score,hdds_score
+hh_0001,2026-10-08,env_003,cluster_goma_nord,female,23,7,2,20.5,Pauvre (Poor),42,8
+hh_0002,2026-09-10,env_002,cluster_masisi_ref,female,65,5,0,55.5,Acceptable,38,5
+hh_0003,2026-10-04,env_002,cluster_goma_nord,male,29,6,2,58.5,Acceptable,32,7
+hh_0004,2026-09-29,env_003,cluster_nyiragongo,female,71,5,3,55.5,Acceptable,25,7
+hh_0005,2026-09-22,env_005,cluster_masisi_ref,male,21,5,1,66.5,Acceptable,40,9
+hh_0006,2026-09-20,env_005,cluster_masisi_ref,female,39,3,2,59,Acceptable,42,4
+hh_0007,2026-10-10,env_004,cluster_nyiragongo,female,32,5,2,46.5,Acceptable,17,5
+hh_0008,2026-09-23,env_003,cluster_goma_sud,female,53,10,3,64.5,Acceptable,35,7
+hh_0009,2026-10-01,env_004,cluster_goma_nord,female,35,4,1,63,Acceptable,29,5
+hh_0010,2026-09-19,env_005,cluster_masisi_ref,male,43,10,2,33,Limite (Borderline),17,7
+hh_0011,2026-11-01,env_002,cluster_goma_sud,male,51,6,0,38.5,Acceptable,24,7
+hh_0012,2026-10-06,env_003,cluster_goma_sud,female,60,4,2,78.5,Acceptable,18,8
+hh_0013,2026-09-23,env_004,cluster_goma_sud,male,26,4,3,66,Acceptable,14,4
+hh_0014,2026-09-09,env_005,cluster_nyiragongo,female,75,6,3,49.5,Acceptable,30,5
+hh_0015,2026-10-03,env_004,cluster_goma_nord,female,70,5,2,42.5,Acceptable,15,8
+hh_0016,2026-10-13,env_002,cluster_masisi_ref,female,55,10,2,46.5,Acceptable,37,6
+hh_0017,2026-10-18,env_003,cluster_nyiragongo,male,48,5,1,67.5,Acceptable,43,9
+hh_0018,2026-10-22,env_005,cluster_nyiragongo,female,53,2,2,49,Acceptable,18,6
+hh_0019,2026-10-08,env_004,cluster_goma_nord,female,72,6,1,37,Acceptable,34,10
+hh_0020,2026-09-21,env_003,cluster_goma_sud,male,55,6,0,36,Acceptable,32,6
+hh_0021,2026-09-18,env_004,cluster_goma_sud,female,67,6,1,43.5,Acceptable,37,7
+hh_0022,2026-09-23,env_005,cluster_goma_nord,female,46,4,1,48,Acceptable,32,5
+hh_0023,2026-10-27,env_002,cluster_nyiragongo,male,26,9,0,61.5,Acceptable,33,6
+hh_0024,2026-09-13,env_001,cluster_goma_sud,female,71,5,0,64.5,Acceptable,18,9
+hh_0025,2026-10-19,env_002,cluster_masisi_ref,female,29,6,1,59,Acceptable,13,8
+hh_0026,2026-10-03,env_003,cluster_goma_nord,male,53,3,2,36,Acceptable,31,8
+hh_0027,2026-10-08,env_004,cluster_goma_nord,female,69,9,2,41.5,Acceptable,47,8
+hh_0028,2026-09-30,env_005,cluster_goma_sud,female,65,3,1,65,Acceptable,27,7
+hh_0029,2026-10-25,env_003,cluster_masisi_ref,male,56,6,1,72,Acceptable,18,9
+hh_0030,2026-09-11,env_004,cluster_goma_nord,female,69,7,0,52,Acceptable,24,5
+hh_0031,2026-09-30,env_001,cluster_masisi_ref,female,75,4,1,47,Acceptable,30,5
+hh_0032,2026-09-19,env_004,cluster_masisi_ref,female,18,9,1,51,Acceptable,43,7
+hh_0033,2026-10-02,env_005,cluster_goma_sud,male,34,7,1,69.5,Acceptable,40,6
+hh_0034,2026-10-25,env_005,cluster_goma_nord,male,41,4,1,45.5,Acceptable,39,6
+hh_0035,2026-11-03,env_004,cluster_goma_nord,female,60,6,2,80,Acceptable,27,3
+hh_0036,2026-10-02,env_005,cluster_nyiragongo,female,73,5,1,36,Acceptable,16,6
+hh_0037,2026-09-25,env_004,cluster_goma_nord,female,44,6,1,54,Acceptable,39,6
+hh_0038,2026-10-01,env_005,cluster_masisi_ref,female,37,6,0,26,Limite (Borderline),19,9
+hh_0039,2026-10-29,env_001,cluster_goma_nord,female,20,5,2,28,Limite (Borderline),33,8
+hh_0040,2026-09-17,env_003,cluster_goma_sud,male,30,3,1,53,Acceptable,33,7
+hh_0041,2026-11-04,env_005,cluster_nyiragongo,male,75,4,1,35.5,Acceptable,27,6
+hh_0042,2026-09-22,env_002,cluster_goma_nord,male,37,5,0,64,Acceptable,25,5
+hh_0043,2026-09-07,env_001,cluster_masisi_ref,female,36,5,1,41,Acceptable,20,4
+hh_0044,2026-10-08,env_003,cluster_goma_nord,female,36,4,1,53.5,Acceptable,30,8
+hh_0045,2026-09-26,env_004,cluster_goma_sud,female,37,4,3,44,Acceptable,22,5
+hh_0046,2026-09-23,env_002,cluster_goma_sud,female,26,7,1,44.5,Acceptable,33,5
+hh_0047,2026-11-01,env_005,cluster_goma_nord,female,24,8,2,60,Acceptable,13,8
+hh_0048,2026-10-28,env_004,cluster_goma_sud,male,18,3,0,55,Acceptable,32,6
+hh_0049,2026-09-22,env_002,cluster_goma_sud,female,55,5,2,33,Limite (Borderline),35,10
+hh_0050,2026-10-19,env_001,cluster_goma_sud,female,23,6,2,72.5,Acceptable,17,6
+hh_0051,2026-09-26,env_005,cluster_masisi_ref,male,38,5,2,39,Acceptable,10,5
+hh_0052,2026-09-19,env_002,cluster_goma_sud,female,52,5,3,44.5,Acceptable,26,9
+hh_0053,2026-10-30,env_003,cluster_goma_nord,female,73,4,2,53,Acceptable,28,9
+hh_0054,2026-10-10,env_003,cluster_goma_nord,female,34,9,2,42,Acceptable,37,6
+hh_0055,2026-09-17,env_003,cluster_goma_sud,female,58,5,0,43.5,Acceptable,12,7
+hh_0056,2026-09-30,env_003,cluster_masisi_ref,male,49,7,2,60.5,Acceptable,29,5
+hh_0057,2026-11-01,env_003,cluster_goma_nord,female,27,5,0,35.5,Acceptable,36,6
+hh_0058,2026-09-24,env_001,cluster_nyiragongo,male,42,4,2,62,Acceptable,25,10
+hh_0059,2026-10-08,env_005,cluster_masisi_ref,male,68,10,1,58.5,Acceptable,24,9
+hh_0060,2026-11-02,env_004,cluster_masisi_ref,female,62,6,2,56.5,Acceptable,26,4
+hh_0061,2026-10-06,env_002,cluster_nyiragongo,male,54,3,0,64.5,Acceptable,32,6
+hh_0062,2026-10-20,env_005,cluster_goma_nord,female,70,5,1,49,Acceptable,10,8
+hh_0063,2026-10-29,env_003,cluster_goma_sud,male,67,5,1,60.5,Acceptable,16,5
+hh_0064,2026-10-28,env_002,cluster_nyiragongo,female,37,3,2,57.5,Acceptable,44,4
+hh_0065,2026-11-03,env_001,cluster_goma_nord,male,48,6,2,62,Acceptable,23,7
+hh_0066,2026-10-08,env_003,cluster_goma_sud,female,65,11,2,43,Acceptable,16,6
+hh_0067,2026-09-20,env_002,cluster_goma_sud,male,64,4,1,41.5,Acceptable,37,7
+hh_0068,2026-09-10,env_003,cluster_masisi_ref,male,18,8,1,55.5,Acceptable,32,10
+hh_0069,2026-10-14,env_001,cluster_goma_nord,male,30,5,1,69,Acceptable,25,10
+hh_0070,2026-09-15,env_001,cluster_goma_sud,female,60,9,0,67.5,Acceptable,13,5
+hh_0071,2026-09-26,env_005,cluster_goma_nord,female,63,7,1,32.5,Limite (Borderline),30,6
+hh_0072,2026-09-29,env_004,cluster_goma_nord,male,26,7,1,52.5,Acceptable,22,5
+hh_0073,2026-10-01,env_005,cluster_masisi_ref,male,73,3,1,70.5,Acceptable,23,5
+hh_0074,2026-10-12,env_004,cluster_masisi_ref,female,18,5,1,42.5,Acceptable,44,4
+hh_0075,2026-10-06,env_001,cluster_masisi_ref,female,51,5,2,54,Acceptable,18,6
+hh_0076,2026-10-22,env_001,cluster_nyiragongo,male,62,6,0,69,Acceptable,20,9
+hh_0077,2026-11-05,env_004,cluster_masisi_ref,male,42,11,2,30,Limite (Borderline),28,5
+hh_0078,2026-10-13,env_001,cluster_masisi_ref,male,42,7,1,37,Acceptable,37,7
+hh_0079,2026-09-23,env_005,cluster_goma_sud,female,63,5,1,47,Acceptable,36,6
+hh_0080,2026-10-31,env_002,cluster_masisi_ref,female,36,6,3,33,Limite (Borderline),20,4
+hh_0081,2026-09-22,env_005,cluster_goma_nord,female,54,8,0,51.5,Acceptable,44,4
+hh_0082,2026-11-02,env_004,cluster_goma_sud,female,58,4,3,51,Acceptable,30,3
+hh_0083,2026-10-08,env_004,cluster_nyiragongo,female,72,6,0,56.5,Acceptable,22,4
+hh_0084,2026-10-29,env_002,cluster_masisi_ref,female,19,5,0,79.5,Acceptable,27,6
+hh_0085,2026-09-08,env_003,cluster_nyiragongo,female,71,4,1,35.5,Acceptable,27,5
+hh_0086,2026-09-29,env_003,cluster_goma_sud,male,58,3,2,54.5,Acceptable,24,7
+hh_0087,2026-09-11,env_004,cluster_masisi_ref,female,75,6,1,57,Acceptable,22,5
+hh_0088,2026-10-21,env_003,cluster_nyiragongo,female,23,5,1,71.5,Acceptable,23,3
+hh_0089,2026-10-31,env_002,cluster_goma_nord,female,61,9,1,23.5,Limite (Borderline),32,8
+hh_0090,2026-09-18,env_004,cluster_masisi_ref,male,42,5,0,77,Acceptable,32,8
+hh_0091,2026-09-07,env_002,cluster_goma_nord,female,59,2,0,46.5,Acceptable,21,6
+hh_0092,2026-09-16,env_004,cluster_goma_sud,male,52,6,2,61.5,Acceptable,27,5
+hh_0093,2026-10-14,env_002,cluster_goma_nord,male,52,6,2,58,Acceptable,26,6
+hh_0094,2026-11-05,env_002,cluster_goma_nord,female,35,5,1,51,Acceptable,28,8
+hh_0095,2026-10-20,env_001,cluster_nyiragongo,female,74,8,0,51,Acceptable,29,7
+hh_0096,2026-10-17,env_005,cluster_goma_sud,female,25,2,2,51,Acceptable,23,6
+hh_0097,2026-09-29,env_003,cluster_goma_nord,female,66,6,1,67.5,Acceptable,48,7
+hh_0098,2026-09-30,env_004,cluster_goma_sud,female,45,8,1,59.5,Acceptable,40,8
+hh_0099,2026-09-18,env_005,cluster_nyiragongo,male,24,8,2,61.5,Acceptable,41,6
+hh_0100,2026-10-02,env_002,cluster_nyiragongo,female,69,5,1,37,Acceptable,24,5
+hh_0101,2026-10-17,env_004,cluster_goma_nord,female,20,4,1,71.5,Acceptable,18,6
+hh_0102,2026-10-22,env_001,cluster_nyiragongo,female,28,4,2,58,Acceptable,16,5
+hh_0103,2026-09-18,env_001,cluster_nyiragongo,female,72,10,0,60,Acceptable,23,8
+hh_0104,2026-09-27,env_001,cluster_goma_sud,male,48,4,2,57,Acceptable,31,3
+hh_0105,2026-10-16,env_001,cluster_goma_sud,male,47,5,2,59,Acceptable,27,4
+hh_0106,2026-09-14,env_003,cluster_goma_sud,male,32,9,0,56,Acceptable,32,5
+hh_0107,2026-10-01,env_003,cluster_goma_sud,female,34,9,2,22,Limite (Borderline),16,9
+hh_0108,2026-10-16,env_004,cluster_masisi_ref,female,38,5,0,25,Limite (Borderline),35,5
+hh_0109,2026-09-22,env_004,cluster_masisi_ref,male,24,6,1,51,Acceptable,29,5
+hh_0110,2026-10-04,env_002,cluster_masisi_ref,female,39,3,2,75.5,Acceptable,33,7
+hh_0111,2026-10-11,env_001,cluster_goma_sud,male,71,2,0,29.5,Limite (Borderline),31,6
+hh_0112,2026-09-23,env_003,cluster_nyiragongo,male,46,4,1,45,Acceptable,33,4
+hh_0113,2026-11-03,env_003,cluster_goma_sud,female,62,10,1,49.5,Acceptable,39,6
+hh_0114,2026-10-07,env_005,cluster_nyiragongo,female,39,5,2,67.5,Acceptable,47,8
+hh_0115,2026-10-16,env_002,cluster_goma_sud,male,18,2,4,61.5,Acceptable,36,7
+hh_0116,2026-10-18,env_002,cluster_goma_nord,female,23,12,1,42.5,Acceptable,21,7
+hh_0117,2026-09-22,env_001,cluster_nyiragongo,female,54,11,2,24,Limite (Borderline),44,7
+hh_0118,2026-10-04,env_002,cluster_nyiragongo,female,70,5,2,44,Acceptable,26,10
+hh_0119,2026-10-10,env_004,cluster_masisi_ref,male,36,3,1,37,Acceptable,25,5
+hh_0120,2026-09-29,env_003,cluster_goma_sud,female,38,4,1,67.5,Acceptable,25,7
+hh_0121,2026-09-17,env_004,cluster_goma_nord,male,21,5,1,60,Acceptable,12,7
+hh_0122,2026-09-15,env_001,cluster_nyiragongo,female,50,2,1,31,Limite (Borderline),25,7
+hh_0123,2026-10-19,env_003,cluster_nyiragongo,male,72,4,2,26,Limite (Borderline),35,4
+hh_0124,2026-10-04,env_005,cluster_goma_nord,male,41,4,1,46,Acceptable,38,6
+hh_0125,2026-10-17,env_003,cluster_goma_nord,female,64,2,2,65,Acceptable,31,3
+hh_0126,2026-09-25,env_005,cluster_goma_sud,male,58,2,1,63.5,Acceptable,36,3
+hh_0127,2026-10-09,env_004,cluster_masisi_ref,female,40,4,2,48.5,Acceptable,30,5
+hh_0128,2026-10-16,env_004,cluster_goma_nord,male,47,3,1,68,Acceptable,26,6
+hh_0129,2026-10-03,env_002,cluster_nyiragongo,male,51,7,2,49.5,Acceptable,21,6
+hh_0130,2026-11-02,env_002,cluster_goma_nord,female,35,3,3,49.5,Acceptable,25,7
+hh_0131,2026-09-30,env_004,cluster_masisi_ref,female,73,4,1,75.5,Acceptable,22,8
+hh_0132,2026-10-22,env_004,cluster_goma_sud,male,36,6,0,59,Acceptable,29,4
+hh_0133,2026-09-08,env_001,cluster_goma_sud,male,45,7,2,35.5,Acceptable,41,4
+hh_0134,2026-09-10,env_001,cluster_goma_nord,male,28,4,2,36,Acceptable,33,4
+hh_0135,2026-10-04,env_004,cluster_nyiragongo,female,38,6,2,73.5,Acceptable,26,10
+hh_0136,2026-10-20,env_005,cluster_goma_nord,female,55,5,1,75,Acceptable,16,7
+hh_0137,2026-10-28,env_005,cluster_masisi_ref,female,52,6,1,32.5,Limite (Borderline),49,8
+hh_0138,2026-10-13,env_003,cluster_nyiragongo,male,32,5,1,78.5,Acceptable,30,8
+hh_0139,2026-10-12,env_001,cluster_nyiragongo,female,24,3,2,50,Acceptable,41,5
+hh_0140,2026-10-24,env_001,cluster_goma_nord,male,32,3,1,48.5,Acceptable,29,8
+hh_0141,2026-09-23,env_003,cluster_masisi_ref,female,47,9,2,60.5,Acceptable,15,5
+hh_0142,2026-09-16,env_004,cluster_masisi_ref,male,58,8,0,68.5,Acceptable,23,4
+hh_0143,2026-10-16,env_005,cluster_masisi_ref,female,60,4,1,67,Acceptable,32,7
+hh_0144,2026-10-19,env_002,cluster_goma_nord,female,49,8,1,42.5,Acceptable,22,7
+hh_0145,2026-09-23,env_002,cluster_goma_sud,female,61,5,1,65.5,Acceptable,12,9
+hh_0146,2026-10-09,env_001,cluster_goma_nord,female,69,7,2,53.5,Acceptable,32,2
+hh_0147,2026-09-11,env_004,cluster_goma_sud,male,22,2,0,46.5,Acceptable,40,7
+hh_0148,2026-09-26,env_005,cluster_goma_sud,female,54,4,1,38.5,Acceptable,31,7
+hh_0149,2026-10-02,env_002,cluster_goma_sud,male,27,5,2,47.5,Acceptable,30,7
+hh_0150,2026-09-09,env_001,cluster_goma_nord,female,33,4,3,30.5,Limite (Borderline),17,8
+hh_0151,2026-10-03,env_005,cluster_goma_sud,female,45,7,0,35.5,Acceptable,11,9
+hh_0152,2026-09-18,env_001,cluster_nyiragongo,female,62,4,2,40.5,Acceptable,30,9
+hh_0153,2026-10-03,env_004,cluster_goma_nord,female,30,3,0,47,Acceptable,13,6
+hh_0154,2026-09-08,env_004,cluster_goma_nord,female,23,4,3,64.5,Acceptable,13,5
+hh_0155,2026-09-25,env_003,cluster_goma_nord,female,75,6,0,43,Acceptable,43,7
+hh_0156,2026-10-24,env_003,cluster_goma_nord,male,62,5,0,61.5,Acceptable,22,6
+hh_0157,2026-10-27,env_001,cluster_masisi_ref,female,38,10,0,87,Acceptable,34,5
+hh_0158,2026-10-08,env_005,cluster_goma_nord,male,66,5,2,44.5,Acceptable,20,5
+hh_0159,2026-09-08,env_004,cluster_masisi_ref,female,28,6,1,60.5,Acceptable,26,5
+hh_0160,2026-10-13,env_005,cluster_goma_nord,female,63,4,3,34,Limite (Borderline),50,6
+hh_0161,2026-10-23,env_003,cluster_goma_nord,female,27,2,1,50.5,Acceptable,31,7
+hh_0162,2026-10-07,env_002,cluster_goma_sud,male,21,6,1,17,Pauvre (Poor),26,5
+hh_0163,2026-09-14,env_002,cluster_goma_nord,female,47,9,2,62,Acceptable,24,6
+hh_0164,2026-09-09,env_002,cluster_goma_nord,female,40,4,0,34,Limite (Borderline),33,6
+hh_0165,2026-09-29,env_003,cluster_goma_nord,female,60,6,0,76.5,Acceptable,26,7
+hh_0166,2026-10-18,env_002,cluster_goma_sud,female,50,3,1,42.5,Acceptable,29,9
+hh_0167,2026-09-23,env_003,cluster_nyiragongo,female,25,3,0,30.5,Limite (Borderline),9,7
+hh_0168,2026-09-07,env_002,cluster_nyiragongo,male,62,4,0,42.5,Acceptable,32,5
+hh_0169,2026-10-05,env_001,cluster_goma_sud,female,75,5,0,36.5,Acceptable,21,6
+hh_0170,2026-09-23,env_002,cluster_masisi_ref,female,48,5,3,62.5,Acceptable,22,6
+hh_0171,2026-10-16,env_003,cluster_goma_nord,female,21,2,1,51.5,Acceptable,29,7
+hh_0172,2026-11-04,env_003,cluster_nyiragongo,male,43,4,1,56,Acceptable,29,6
+hh_0173,2026-09-14,env_003,cluster_goma_sud,male,25,3,1,38,Acceptable,28,4
+hh_0174,2026-11-02,env_001,cluster_masisi_ref,female,39,2,2,46,Acceptable,45,8
+hh_0175,2026-10-06,env_002,cluster_goma_nord,male,30,5,1,47,Acceptable,21,8
+hh_0176,2026-09-14,env_002,cluster_goma_sud,female,54,4,1,81.5,Acceptable,26,6
+hh_0177,2026-10-03,env_004,cluster_masisi_ref,female,74,6,3,66,Acceptable,26,6
+hh_0178,2026-09-11,env_005,cluster_masisi_ref,female,55,6,2,34.5,Limite (Borderline),38,7
+hh_0179,2026-10-31,env_002,cluster_nyiragongo,male,59,7,3,30,Limite (Borderline),42,6
+hh_0180,2026-09-20,env_001,cluster_goma_nord,female,46,5,2,52,Acceptable,39,6
+hh_0181,2026-10-14,env_001,cluster_goma_sud,male,22,8,1,50.5,Acceptable,35,3
+hh_0182,2026-09-11,env_005,cluster_goma_sud,female,62,3,0,59.5,Acceptable,34,4
+hh_0183,2026-10-20,env_001,cluster_masisi_ref,female,46,6,1,49,Acceptable,31,10
+hh_0184,2026-10-08,env_003,cluster_goma_sud,male,67,5,2,25,Limite (Borderline),19,2
+hh_0185,2026-09-23,env_001,cluster_nyiragongo,male,20,5,4,52,Acceptable,19,5
+hh_0186,2026-11-02,env_005,cluster_goma_nord,male,32,5,2,67,Acceptable,32,6
+hh_0187,2026-09-11,env_004,cluster_goma_nord,female,38,6,1,43,Acceptable,25,6
+hh_0188,2026-10-01,env_001,cluster_goma_sud,female,68,5,2,54.5,Acceptable,34,8
+hh_0189,2026-10-13,env_001,cluster_nyiragongo,female,24,10,1,47,Acceptable,13,6
+hh_0190,2026-10-02,env_001,cluster_masisi_ref,female,43,5,2,54.5,Acceptable,25,6
+hh_0191,2026-10-26,env_001,cluster_nyiragongo,male,37,5,1,46.5,Acceptable,32,4
+hh_0192,2026-10-15,env_004,cluster_goma_nord,male,64,8,3,67,Acceptable,20,5
+hh_0193,2026-09-19,env_003,cluster_nyiragongo,male,24,5,1,50,Acceptable,20,7
+hh_0194,2026-10-31,env_001,cluster_masisi_ref,male,58,4,1,70,Acceptable,37,9
+hh_0195,2026-10-15,env_002,cluster_goma_nord,female,27,4,1,54.5,Acceptable,17,8
+hh_0196,2026-09-29,env_001,cluster_goma_sud,female,56,6,0,74,Acceptable,34,8
+hh_0197,2026-10-04,env_001,cluster_goma_sud,female,29,5,3,57,Acceptable,24,7
+hh_0198,2026-10-08,env_005,cluster_goma_sud,male,29,8,0,18.5,Pauvre (Poor),30,6
+hh_0199,2026-11-02,env_001,cluster_goma_sud,male,33,5,1,61,Acceptable,31,3
+hh_0200,2026-10-18,env_004,cluster_masisi_ref,male,74,3,1,50,Acceptable,30,6
+hh_0201,2026-09-22,env_001,cluster_goma_nord,female,36,5,1,49,Acceptable,10,6
+hh_0202,2026-11-03,env_002,cluster_goma_nord,female,63,5,2,49.5,Acceptable,21,6
+hh_0203,2026-11-01,env_005,cluster_masisi_ref,female,52,2,2,33.5,Limite (Borderline),36,6
+hh_0204,2026-10-31,env_001,cluster_goma_sud,female,35,6,0,79,Acceptable,42,6
+hh_0205,2026-09-08,env_001,cluster_goma_nord,male,50,8,1,56.5,Acceptable,23,5
+hh_0206,2026-10-18,env_004,cluster_masisi_ref,female,42,8,2,59.5,Acceptable,19,4
+hh_0207,2026-10-22,env_002,cluster_goma_nord,male,34,5,1,59.5,Acceptable,32,6
+hh_0208,2026-10-27,env_002,cluster_nyiragongo,female,64,4,3,65.5,Acceptable,28,7
+hh_0209,2026-10-31,env_002,cluster_masisi_ref,male,45,7,0,30,Limite (Borderline),38,7
+hh_0210,2026-09-24,env_004,cluster_masisi_ref,female,51,4,2,43.5,Acceptable,36,4
+hh_0211,2026-09-12,env_002,cluster_goma_nord,female,69,4,2,60.5,Acceptable,41,7
+hh_0212,2026-09-16,env_004,cluster_nyiragongo,female,68,5,0,57.5,Acceptable,21,8
+hh_0213,2026-10-01,env_004,cluster_nyiragongo,male,57,6,1,48,Acceptable,29,8
+hh_0214,2026-10-19,env_005,cluster_goma_sud,male,64,5,4,52,Acceptable,49,6
+hh_0215,2026-10-05,env_004,cluster_goma_sud,female,41,9,0,68,Acceptable,26,7
+hh_0216,2026-10-21,env_004,cluster_goma_sud,female,67,5,0,73,Acceptable,20,5
+hh_0217,2026-10-19,env_002,cluster_goma_sud,female,70,5,1,48,Acceptable,21,7
+hh_0218,2026-10-01,env_002,cluster_nyiragongo,female,19,10,0,51,Acceptable,36,5
+hh_0219,2026-10-07,env_002,cluster_goma_nord,female,58,4,2,55.5,Acceptable,9,5
+hh_0220,2026-10-18,env_002,cluster_goma_sud,female,51,4,1,51,Acceptable,43,6
+hh_0221,2026-10-31,env_002,cluster_goma_nord,male,25,7,2,71.5,Acceptable,9,5
+hh_0222,2026-09-23,env_003,cluster_goma_sud,male,75,3,2,59,Acceptable,25,7
+hh_0223,2026-10-08,env_004,cluster_nyiragongo,male,30,5,1,32.5,Limite (Borderline),26,5
+hh_0224,2026-09-13,env_005,cluster_goma_sud,male,27,6,3,49.5,Acceptable,34,6
+hh_0225,2026-11-05,env_004,cluster_goma_sud,female,49,6,1,47.5,Acceptable,22,7
+hh_0226,2026-09-30,env_005,cluster_goma_nord,female,62,2,1,61.5,Acceptable,34,9
+hh_0227,2026-10-31,env_004,cluster_masisi_ref,female,43,8,2,56,Acceptable,28,6
+hh_0228,2026-11-02,env_005,cluster_goma_sud,male,30,4,2,44.5,Acceptable,31,8
+hh_0229,2026-09-21,env_003,cluster_goma_sud,male,70,4,1,71,Acceptable,23,5
+hh_0230,2026-09-13,env_005,cluster_goma_nord,male,44,9,2,66.5,Acceptable,35,8
+hh_0231,2026-09-22,env_001,cluster_goma_sud,female,75,6,2,33,Limite (Borderline),18,10
+hh_0232,2026-10-07,env_003,cluster_nyiragongo,female,18,4,0,68,Acceptable,48,5
+hh_0233,2026-11-04,env_004,cluster_goma_sud,female,19,6,2,41,Acceptable,30,4
+hh_0234,2026-09-17,env_002,cluster_goma_nord,female,26,5,1,57.5,Acceptable,8,4
+hh_0235,2026-09-19,env_005,cluster_nyiragongo,female,20,6,1,67,Acceptable,23,6
+hh_0236,2026-10-23,env_001,cluster_nyiragongo,male,48,4,0,54,Acceptable,27,7
+hh_0237,2026-09-17,env_005,cluster_masisi_ref,female,74,3,1,56.5,Acceptable,23,9
+hh_0238,2026-09-20,env_001,cluster_goma_nord,male,23,7,0,53.5,Acceptable,36,5
+hh_0239,2026-09-10,env_004,cluster_masisi_ref,female,65,4,1,49.5,Acceptable,10,8
+hh_0240,2026-09-27,env_003,cluster_goma_nord,female,50,4,0,58.5,Acceptable,48,5
+hh_0241,2026-09-18,env_001,cluster_nyiragongo,female,68,5,2,27,Limite (Borderline),29,6
+hh_0242,2026-09-24,env_005,cluster_masisi_ref,male,33,4,2,62.5,Acceptable,33,7
+hh_0243,2026-09-12,env_002,cluster_masisi_ref,female,48,9,3,39,Acceptable,32,4
+hh_0244,2026-10-27,env_005,cluster_masisi_ref,male,55,4,2,38.5,Acceptable,36,9
+hh_0245,2026-09-19,env_004,cluster_goma_sud,female,46,5,3,41,Acceptable,33,9
+hh_0246,2026-09-10,env_003,cluster_nyiragongo,male,55,6,3,30.5,Limite (Borderline),32,8
+hh_0247,2026-10-11,env_004,cluster_goma_sud,female,61,4,2,55,Acceptable,20,7
+hh_0248,2026-10-30,env_004,cluster_goma_nord,male,54,8,2,53,Acceptable,21,8
+hh_0249,2026-09-10,env_003,cluster_masisi_ref,female,64,4,1,61.5,Acceptable,18,8
+hh_0250,2026-10-14,env_002,cluster_masisi_ref,female,24,11,0,71,Acceptable,12,6
+hh_0251,2026-09-22,env_003,cluster_goma_sud,male,53,6,0,32,Limite (Borderline),27,7
+hh_0252,2026-09-22,env_002,cluster_goma_nord,female,62,5,0,62,Acceptable,45,7
+hh_0253,2026-10-29,env_001,cluster_nyiragongo,male,20,6,0,39.5,Acceptable,33,4
+hh_0254,2026-09-23,env_002,cluster_goma_sud,female,71,7,0,65.5,Acceptable,41,7
+hh_0255,2026-10-11,env_002,cluster_nyiragongo,female,19,7,1,40.5,Acceptable,28,9
+hh_0256,2026-10-22,env_003,cluster_masisi_ref,male,45,7,1,37,Acceptable,43,8
+hh_0257,2026-10-22,env_005,cluster_masisi_ref,female,64,4,2,56.5,Acceptable,32,6
+hh_0258,2026-09-25,env_001,cluster_goma_nord,female,51,5,3,47.5,Acceptable,26,6
+hh_0259,2026-10-29,env_003,cluster_masisi_ref,female,71,6,1,57,Acceptable,40,6
+hh_0260,2026-09-25,env_003,cluster_masisi_ref,female,70,4,1,23.5,Limite (Borderline),36,8
+hh_0261,2026-10-09,env_003,cluster_goma_sud,male,26,7,2,34.5,Limite (Borderline),38,8
+hh_0262,2026-10-13,env_004,cluster_goma_sud,male,50,5,2,79,Acceptable,34,6
+hh_0263,2026-10-29,env_003,cluster_nyiragongo,female,23,3,2,28.5,Limite (Borderline),28,4
+hh_0264,2026-10-21,env_002,cluster_goma_sud,male,33,4,1,42.5,Acceptable,35,9
+hh_0265,2026-11-05,env_001,cluster_goma_nord,female,58,4,0,44.5,Acceptable,21,6
+hh_0266,2026-09-15,env_003,cluster_nyiragongo,male,49,6,2,73,Acceptable,21,5
+hh_0267,2026-11-01,env_001,cluster_goma_sud,female,54,7,2,56.5,Acceptable,20,3
+hh_0268,2026-09-25,env_004,cluster_masisi_ref,female,47,5,1,64,Acceptable,37,7
+hh_0269,2026-09-24,env_003,cluster_nyiragongo,male,57,7,2,27.5,Limite (Borderline),27,7
+hh_0270,2026-10-16,env_003,cluster_goma_sud,male,68,5,0,44.5,Acceptable,33,6
+hh_0271,2026-11-05,env_002,cluster_masisi_ref,female,55,6,1,49.5,Acceptable,34,5
+hh_0272,2026-09-17,env_002,cluster_nyiragongo,female,33,6,1,50.5,Acceptable,22,11
+hh_0273,2026-10-15,env_005,cluster_goma_sud,female,33,4,3,61,Acceptable,28,8
+hh_0274,2026-09-13,env_003,cluster_goma_sud,female,23,3,1,62.5,Acceptable,24,9
+hh_0275,2026-11-03,env_005,cluster_nyiragongo,male,45,2,1,50.5,Acceptable,4,5
+hh_0276,2026-09-07,env_001,cluster_goma_sud,female,60,3,0,57.5,Acceptable,30,5
+hh_0277,2026-09-14,env_003,cluster_goma_sud,male,75,7,1,43.5,Acceptable,32,8
+hh_0278,2026-10-02,env_001,cluster_nyiragongo,female,64,7,0,55.5,Acceptable,29,5
+hh_0279,2026-09-07,env_001,cluster_goma_nord,female,55,5,0,56.5,Acceptable,31,6
+hh_0280,2026-11-04,env_003,cluster_nyiragongo,female,26,7,2,69.5,Acceptable,15,7
+hh_0281,2026-10-24,env_001,cluster_goma_sud,male,27,4,1,39.5,Acceptable,36,5
+hh_0282,2026-10-25,env_002,cluster_nyiragongo,male,19,8,2,61,Acceptable,41,6
+hh_0283,2026-09-09,env_005,cluster_nyiragongo,female,60,4,1,66,Acceptable,29,8
+hh_0284,2026-10-30,env_005,cluster_nyiragongo,female,28,6,2,61,Acceptable,35,5
+hh_0285,2026-10-24,env_005,cluster_nyiragongo,female,51,6,4,19,Pauvre (Poor),26,8
+hh_0286,2026-10-22,env_001,cluster_goma_sud,female,72,10,1,40,Acceptable,24,10
+hh_0287,2026-11-05,env_001,cluster_nyiragongo,male,67,7,0,52.5,Acceptable,10,4
+hh_0288,2026-10-12,env_003,cluster_goma_sud,female,36,8,1,66.5,Acceptable,33,6
+hh_0289,2026-09-21,env_002,cluster_goma_sud,female,58,7,1,40.5,Acceptable,35,7
+hh_0290,2026-10-11,env_005,cluster_nyiragongo,male,56,5,1,53.5,Acceptable,40,6
+hh_0291,2026-11-02,env_002,cluster_goma_sud,male,51,3,1,45,Acceptable,42,4
+hh_0292,2026-10-02,env_005,cluster_goma_nord,female,26,4,2,51,Acceptable,29,9
+hh_0293,2026-10-21,env_005,cluster_masisi_ref,female,36,5,1,58.5,Acceptable,36,8
+hh_0294,2026-09-28,env_002,cluster_goma_sud,female,33,9,0,58.5,Acceptable,24,5
+hh_0295,2026-09-30,env_004,cluster_goma_nord,male,56,5,2,28,Limite (Borderline),29,4
+hh_0296,2026-09-12,env_002,cluster_masisi_ref,female,55,5,1,37,Acceptable,26,6
+hh_0297,2026-10-28,env_005,cluster_nyiragongo,female,73,4,1,76,Acceptable,42,7
+hh_0298,2026-10-16,env_004,cluster_goma_sud,male,20,6,1,48,Acceptable,40,6
+hh_0299,2026-10-31,env_004,cluster_goma_sud,female,65,4,1,52.5,Acceptable,21,7
+hh_0300,2026-10-19,env_002,cluster_goma_sud,female,38,5,2,34.5,Limite (Borderline),42,8
+hh_0301,2026-09-24,env_005,cluster_goma_nord,female,46,3,3,47.5,Acceptable,40,7
+hh_0302,2026-10-18,env_003,cluster_goma_sud,female,68,11,1,42,Acceptable,27,5
+hh_0303,2026-10-13,env_005,cluster_goma_sud,female,31,2,0,47,Acceptable,42,7
+hh_0304,2026-10-01,env_005,cluster_goma_nord,female,45,5,1,43.5,Acceptable,36,6
+hh_0305,2026-10-28,env_005,cluster_masisi_ref,female,75,6,2,53,Acceptable,28,7
+hh_0306,2026-09-22,env_004,cluster_goma_sud,female,36,6,1,36.5,Acceptable,38,4
+hh_0307,2026-09-16,env_005,cluster_goma_nord,female,27,5,1,39.5,Acceptable,19,7
+hh_0308,2026-09-12,env_002,cluster_masisi_ref,male,46,5,1,50,Acceptable,13,10
+hh_0309,2026-09-27,env_002,cluster_masisi_ref,male,71,9,1,55,Acceptable,38,5
+hh_0310,2026-09-10,env_005,cluster_nyiragongo,male,35,6,2,62.5,Acceptable,18,6
+hh_0311,2026-11-04,env_002,cluster_masisi_ref,female,52,7,2,51,Acceptable,37,7
+hh_0312,2026-11-04,env_004,cluster_goma_sud,female,62,7,3,34,Limite (Borderline),43,8
+hh_0313,2026-10-25,env_004,cluster_masisi_ref,male,38,4,1,47,Acceptable,21,8
+hh_0314,2026-09-30,env_005,cluster_nyiragongo,male,38,6,1,60.5,Acceptable,13,5
+hh_0315,2026-09-13,env_001,cluster_goma_sud,female,26,3,1,48,Acceptable,41,5
+hh_0316,2026-09-13,env_002,cluster_goma_nord,female,20,4,1,47.5,Acceptable,4,8
+hh_0317,2026-11-03,env_003,cluster_goma_nord,female,42,6,1,77,Acceptable,38,8
+hh_0318,2026-10-16,env_001,cluster_nyiragongo,male,42,5,0,29,Limite (Borderline),14,5
+hh_0319,2026-09-11,env_001,cluster_goma_nord,male,26,12,1,44,Acceptable,19,5
+hh_0320,2026-10-09,env_002,cluster_goma_sud,female,37,8,1,46,Acceptable,40,7
+hh_0321,2026-09-15,env_003,cluster_goma_sud,female,58,4,0,64.5,Acceptable,26,7
+hh_0322,2026-10-25,env_005,cluster_goma_sud,female,31,12,0,65,Acceptable,35,5
+hh_0323,2026-09-09,env_001,cluster_goma_sud,male,66,6,1,39.5,Acceptable,31,5
+hh_0324,2026-09-09,env_005,cluster_nyiragongo,female,31,4,1,74.5,Acceptable,21,9
+hh_0325,2026-09-15,env_003,cluster_masisi_ref,male,44,5,1,43.5,Acceptable,29,7
+hh_0326,2026-10-05,env_003,cluster_goma_nord,female,45,7,1,60,Acceptable,27,9
+hh_0327,2026-10-18,env_001,cluster_nyiragongo,female,69,5,2,36,Acceptable,23,8
+hh_0328,2026-09-11,env_003,cluster_goma_sud,female,26,7,1,65.5,Acceptable,37,8
+hh_0329,2026-09-23,env_001,cluster_goma_nord,female,29,3,1,32,Limite (Borderline),10,6
+hh_0330,2026-10-07,env_001,cluster_goma_nord,female,21,3,2,31.5,Limite (Borderline),31,4
+hh_0331,2026-09-15,env_004,cluster_masisi_ref,female,64,9,3,43,Acceptable,19,5
+hh_0332,2026-10-27,env_004,cluster_nyiragongo,male,52,3,1,52.5,Acceptable,39,8
+hh_0333,2026-10-12,env_001,cluster_nyiragongo,female,41,3,1,54,Acceptable,38,10
+hh_0334,2026-11-05,env_001,cluster_masisi_ref,male,63,10,1,58.5,Acceptable,34,6
+hh_0335,2026-10-14,env_003,cluster_goma_sud,female,50,5,0,50,Acceptable,21,8
+hh_0336,2026-10-23,env_002,cluster_goma_nord,female,49,10,2,74,Acceptable,21,7
+hh_0337,2026-09-14,env_004,cluster_nyiragongo,female,48,7,1,51.5,Acceptable,21,7
+hh_0338,2026-10-16,env_001,cluster_nyiragongo,female,34,3,0,63.5,Acceptable,25,5
+hh_0339,2026-10-21,env_001,cluster_goma_nord,female,36,5,3,40.5,Acceptable,24,8
+hh_0340,2026-09-09,env_003,cluster_goma_sud,female,70,6,1,80,Acceptable,15,5
+hh_0341,2026-10-11,env_001,cluster_goma_nord,female,38,7,2,65,Acceptable,25,7
+hh_0342,2026-10-11,env_004,cluster_goma_sud,female,54,7,0,20.5,Pauvre (Poor),33,4
+hh_0343,2026-09-29,env_002,cluster_goma_nord,female,24,5,1,59.5,Acceptable,29,6
+hh_0344,2026-09-20,env_005,cluster_goma_nord,female,67,5,1,42.5,Acceptable,29,7
+hh_0345,2026-10-28,env_004,cluster_goma_sud,female,64,2,1,50,Acceptable,36,7
+hh_0346,2026-10-28,env_002,cluster_nyiragongo,female,30,5,2,71,Acceptable,14,8
+hh_0347,2026-10-15,env_003,cluster_goma_nord,female,58,10,2,34.5,Limite (Borderline),22,4
+hh_0348,2026-09-26,env_001,cluster_nyiragongo,female,30,5,0,66,Acceptable,28,8
+hh_0349,2026-11-03,env_004,cluster_nyiragongo,male,35,6,3,38.5,Acceptable,32,4
+hh_0350,2026-09-17,env_003,cluster_goma_nord,male,57,5,3,45,Acceptable,28,8
+hh_0351,2026-09-13,env_003,cluster_nyiragongo,female,46,9,1,33,Limite (Borderline),14,9
+hh_0352,2026-09-07,env_001,cluster_nyiragongo,male,48,6,1,53,Acceptable,29,4
+hh_0353,2026-09-24,env_001,cluster_goma_sud,female,64,5,2,51.5,Acceptable,29,4
+hh_0354,2026-10-07,env_001,cluster_goma_sud,male,66,5,2,45,Acceptable,19,6
+hh_0355,2026-10-05,env_005,cluster_masisi_ref,female,18,4,0,50.5,Acceptable,20,5
+hh_0356,2026-09-18,env_003,cluster_goma_nord,female,52,6,1,38,Acceptable,47,7
+hh_0357,2026-11-03,env_002,cluster_nyiragongo,female,56,3,2,47.5,Acceptable,24,9
+hh_0358,2026-09-30,env_004,cluster_nyiragongo,female,20,5,1,61,Acceptable,27,7
+hh_0359,2026-10-13,env_001,cluster_nyiragongo,male,75,6,1,37,Acceptable,9,6
+hh_0360,2026-09-11,env_004,cluster_goma_nord,female,47,4,0,66,Acceptable,24,7
+hh_0361,2026-10-03,env_004,cluster_goma_sud,male,46,5,2,54,Acceptable,27,6
+hh_0362,2026-09-07,env_002,cluster_nyiragongo,female,27,5,4,41,Acceptable,30,4
+hh_0363,2026-10-11,env_004,cluster_masisi_ref,female,46,4,1,53,Acceptable,34,9
+hh_0364,2026-10-03,env_001,cluster_goma_sud,male,46,6,2,42,Acceptable,34,4
+hh_0365,2026-10-04,env_005,cluster_goma_sud,female,37,4,2,61.5,Acceptable,35,4
+hh_0366,2026-09-08,env_005,cluster_masisi_ref,female,36,5,0,73.5,Acceptable,11,3
+hh_0367,2026-09-24,env_002,cluster_goma_sud,female,69,4,2,34.5,Limite (Borderline),23,6
+hh_0368,2026-10-31,env_003,cluster_goma_nord,male,68,9,0,59,Acceptable,34,6
+hh_0369,2026-09-29,env_002,cluster_masisi_ref,female,52,3,1,94.5,Acceptable,35,5
+hh_0370,2026-09-26,env_002,cluster_masisi_ref,female,53,11,1,48,Acceptable,22,8
+hh_0371,2026-11-05,env_001,cluster_goma_nord,female,36,9,1,53,Acceptable,10,8
+hh_0372,2026-11-03,env_001,cluster_goma_nord,male,48,3,1,57,Acceptable,31,5
+hh_0373,2026-09-12,env_005,cluster_goma_nord,male,30,6,1,50,Acceptable,25,4
+hh_0374,2026-09-28,env_005,cluster_nyiragongo,male,40,5,0,43,Acceptable,23,10
+hh_0375,2026-10-07,env_004,cluster_masisi_ref,male,37,7,2,55.5,Acceptable,22,7
+hh_0376,2026-10-29,env_001,cluster_masisi_ref,female,64,6,2,83.5,Acceptable,24,6
+hh_0377,2026-10-23,env_005,cluster_masisi_ref,female,62,3,2,30,Limite (Borderline),31,8
+hh_0378,2026-10-10,env_005,cluster_nyiragongo,male,44,5,1,56,Acceptable,26,7
+hh_0379,2026-09-28,env_002,cluster_masisi_ref,male,21,6,1,67.5,Acceptable,37,6
+hh_0380,2026-10-17,env_001,cluster_nyiragongo,female,26,4,3,35,Limite (Borderline),32,7
+hh_0381,2026-10-05,env_003,cluster_nyiragongo,male,27,11,2,44.5,Acceptable,9,9
+hh_0382,2026-10-06,env_002,cluster_masisi_ref,male,34,4,1,42,Acceptable,34,4
+hh_0383,2026-09-14,env_004,cluster_goma_sud,male,20,7,1,51.5,Acceptable,28,4
+hh_0384,2026-09-09,env_004,cluster_goma_nord,male,62,7,2,61.5,Acceptable,35,7
+hh_0385,2026-10-25,env_002,cluster_goma_nord,male,65,7,0,59,Acceptable,18,4
+hh_0386,2026-09-25,env_003,cluster_nyiragongo,male,63,5,1,70.5,Acceptable,23,10
+hh_0387,2026-09-26,env_004,cluster_goma_nord,male,45,10,1,73,Acceptable,20,7
+hh_0388,2026-09-12,env_002,cluster_nyiragongo,female,30,3,2,85.5,Acceptable,21,7
+hh_0389,2026-09-19,env_001,cluster_goma_sud,female,27,5,3,44.5,Acceptable,38,8
+hh_0390,2026-09-24,env_004,cluster_goma_nord,male,50,6,1,57.5,Acceptable,43,8
+hh_0391,2026-10-28,env_005,cluster_masisi_ref,male,53,7,1,40,Acceptable,17,8
+hh_0392,2026-10-12,env_002,cluster_goma_nord,female,59,3,0,42,Acceptable,39,7
+hh_0393,2026-10-19,env_005,cluster_goma_sud,female,59,4,1,64,Acceptable,36,7
+hh_0394,2026-10-19,env_004,cluster_masisi_ref,male,41,4,2,48.5,Acceptable,28,8
+hh_0395,2026-10-29,env_002,cluster_nyiragongo,female,18,4,1,31,Limite (Borderline),22,5
+hh_0396,2026-10-01,env_003,cluster_goma_sud,female,49,5,0,63.5,Acceptable,18,6
+hh_0397,2026-10-03,env_005,cluster_nyiragongo,male,39,4,1,49.5,Acceptable,36,6
+hh_0398,2026-10-06,env_003,cluster_nyiragongo,male,33,5,2,47.5,Acceptable,44,6
+hh_0399,2026-09-10,env_003,cluster_goma_sud,male,57,12,2,58,Acceptable,27,7
+hh_0400,2026-10-19,env_002,cluster_masisi_ref,female,21,5,1,45,Acceptable,10,9
+hh_0401,2026-10-13,env_004,cluster_goma_nord,male,41,7,1,54,Acceptable,39,7
+hh_0402,2026-09-20,env_004,cluster_goma_sud,male,71,6,0,56,Acceptable,16,8
+hh_0403,2026-10-29,env_003,cluster_goma_sud,male,30,4,0,66,Acceptable,44,7
+hh_0404,2026-11-05,env_004,cluster_masisi_ref,female,34,5,2,31.5,Limite (Borderline),30,6
+hh_0405,2026-09-22,env_005,cluster_goma_sud,female,29,5,1,34.5,Limite (Borderline),13,6
+hh_0406,2026-10-11,env_005,cluster_goma_nord,male,60,10,1,40.5,Acceptable,10,6
+hh_0407,2026-10-21,env_002,cluster_goma_nord,female,27,11,1,31,Limite (Borderline),42,6
+hh_0408,2026-10-07,env_003,cluster_nyiragongo,female,18,2,3,53,Acceptable,44,6
+hh_0409,2026-10-17,env_002,cluster_goma_sud,female,24,5,0,64,Acceptable,31,3
+hh_0410,2026-10-30,env_003,cluster_goma_nord,female,27,3,3,20.5,Pauvre (Poor),11,5
+hh_0411,2026-09-18,env_002,cluster_masisi_ref,female,49,7,2,50.5,Acceptable,35,6
+hh_0412,2026-09-18,env_003,cluster_goma_sud,male,51,5,2,17.5,Pauvre (Poor),39,7
+hh_0413,2026-09-09,env_001,cluster_goma_nord,male,37,3,0,46,Acceptable,36,8
+hh_0414,2026-10-24,env_005,cluster_goma_nord,female,53,5,1,57,Acceptable,13,10
+hh_0415,2026-11-05,env_003,cluster_goma_nord,male,55,3,2,42,Acceptable,15,5
+hh_0416,2026-10-27,env_002,cluster_masisi_ref,male,46,6,2,87,Acceptable,20,6
+hh_0417,2026-10-09,env_003,cluster_masisi_ref,female,29,4,2,54,Acceptable,15,5
+hh_0418,2026-09-13,env_005,cluster_goma_sud,female,31,4,1,67,Acceptable,21,3
+hh_0419,2026-09-28,env_003,cluster_goma_sud,female,34,5,3,58.5,Acceptable,19,6
+hh_0420,2026-10-23,env_003,cluster_goma_sud,female,62,5,1,48,Acceptable,25,6
+hh_0421,2026-10-19,env_002,cluster_goma_nord,female,57,5,1,46.5,Acceptable,32,6
+hh_0422,2026-10-01,env_003,cluster_goma_nord,female,36,5,2,32.5,Limite (Borderline),16,9
+hh_0423,2026-10-11,env_002,cluster_goma_nord,female,30,7,2,68,Acceptable,15,8
+hh_0424,2026-10-22,env_003,cluster_nyiragongo,male,37,4,2,31,Limite (Borderline),31,7
+hh_0425,2026-11-01,env_002,cluster_masisi_ref,male,50,7,1,40,Acceptable,23,6
+hh_0426,2026-10-12,env_002,cluster_nyiragongo,female,66,5,0,49.5,Acceptable,46,10
+hh_0427,2026-10-11,env_002,cluster_masisi_ref,female,53,4,1,36.5,Acceptable,34,6
+hh_0428,2026-10-06,env_005,cluster_masisi_ref,female,19,5,1,53.5,Acceptable,19,5
+hh_0429,2026-09-18,env_005,cluster_goma_sud,female,21,5,1,50.5,Acceptable,25,7
+hh_0430,2026-09-25,env_003,cluster_goma_sud,male,36,8,0,48,Acceptable,15,4
+hh_0431,2026-09-22,env_005,cluster_goma_nord,male,56,5,1,44,Acceptable,31,4
+hh_0432,2026-09-12,env_001,cluster_goma_nord,female,75,6,3,46,Acceptable,21,5
+hh_0433,2026-10-25,env_005,cluster_goma_nord,male,40,2,0,29.5,Limite (Borderline),22,5
+hh_0434,2026-10-11,env_004,cluster_goma_sud,female,50,3,1,50.5,Acceptable,28,7
+hh_0435,2026-09-20,env_002,cluster_goma_nord,male,70,6,0,67.5,Acceptable,34,7
+hh_0436,2026-09-10,env_003,cluster_nyiragongo,male,62,4,1,55.5,Acceptable,27,6
+hh_0437,2026-09-12,env_005,cluster_goma_nord,male,68,6,2,43.5,Acceptable,30,6
+hh_0438,2026-10-20,env_005,cluster_nyiragongo,female,39,5,1,67.5,Acceptable,34,10
+hh_0439,2026-10-06,env_004,cluster_goma_sud,female,49,8,1,60,Acceptable,41,7
+hh_0440,2026-09-21,env_004,cluster_goma_sud,female,30,6,3,40,Acceptable,33,4
+hh_0441,2026-09-07,env_002,cluster_masisi_ref,male,66,7,1,35.5,Acceptable,33,8
+hh_0442,2026-10-19,env_004,cluster_nyiragongo,female,21,4,2,52.5,Acceptable,26,6
+hh_0443,2026-09-07,env_004,cluster_goma_sud,female,53,5,2,55,Acceptable,27,7
+hh_0444,2026-10-26,env_005,cluster_masisi_ref,female,69,6,1,61,Acceptable,14,6
+hh_0445,2026-10-03,env_004,cluster_goma_nord,female,40,5,2,51.5,Acceptable,31,8
+hh_0446,2026-09-08,env_001,cluster_goma_nord,female,48,6,0,53,Acceptable,26,6
+hh_0447,2026-10-10,env_004,cluster_goma_nord,female,68,5,3,48.5,Acceptable,36,4
+hh_0448,2026-10-24,env_003,cluster_nyiragongo,male,29,7,2,43,Acceptable,20,6
+hh_0449,2026-10-17,env_005,cluster_goma_nord,female,31,5,1,43.5,Acceptable,10,6
+hh_0450,2026-09-10,env_002,cluster_nyiragongo,female,64,7,1,67.5,Acceptable,15,6
+hh_0451,2026-11-04,env_002,cluster_goma_sud,male,55,6,2,50.5,Acceptable,24,6
+hh_0452,2026-09-25,env_003,cluster_goma_sud,female,37,10,2,37,Acceptable,17,6
+hh_0453,2026-10-16,env_004,cluster_goma_nord,male,34,7,2,53.5,Acceptable,49,7
+hh_0454,2026-10-18,env_003,cluster_goma_nord,female,44,3,0,32.5,Limite (Borderline),14,8
+hh_0455,2026-09-18,env_005,cluster_masisi_ref,male,19,5,2,59,Acceptable,15,6
+hh_0456,2026-09-26,env_002,cluster_masisi_ref,female,21,10,1,45.5,Acceptable,17,4
+hh_0457,2026-10-26,env_001,cluster_goma_sud,female,40,9,2,74,Acceptable,33,7
+hh_0458,2026-09-19,env_004,cluster_goma_nord,female,58,4,2,44.5,Acceptable,23,8
+hh_0459,2026-10-15,env_001,cluster_masisi_ref,female,62,7,1,55,Acceptable,38,8
+hh_0460,2026-11-04,env_004,cluster_goma_nord,female,25,5,1,47.5,Acceptable,23,4
+hh_0461,2026-10-11,env_004,cluster_goma_nord,female,33,12,3,43.5,Acceptable,38,8
+hh_0462,2026-09-21,env_001,cluster_nyiragongo,female,50,6,1,59.5,Acceptable,10,8
+hh_0463,2026-09-22,env_001,cluster_goma_sud,male,29,3,2,70,Acceptable,23,8
+hh_0464,2026-09-15,env_001,cluster_nyiragongo,male,38,4,1,24.5,Limite (Borderline),39,5
+hh_0465,2026-10-25,env_002,cluster_goma_nord,male,36,6,2,32,Limite (Borderline),4,5
+hh_0466,2026-10-13,env_004,cluster_nyiragongo,male,55,7,0,33,Limite (Borderline),39,3
+hh_0467,2026-09-19,env_005,cluster_goma_nord,female,56,8,1,61,Acceptable,19,9
+hh_0468,2026-09-24,env_002,cluster_goma_sud,female,21,6,1,39.5,Acceptable,24,6
+hh_0469,2026-09-20,env_003,cluster_goma_sud,female,35,7,1,61,Acceptable,29,8
+hh_0470,2026-09-27,env_003,cluster_goma_nord,male,63,3,0,61,Acceptable,31,8
+hh_0471,2026-10-08,env_004,cluster_goma_sud,female,20,7,1,49.5,Acceptable,25,5
+hh_0472,2026-10-15,env_003,cluster_masisi_ref,female,35,5,2,57,Acceptable,32,6
+hh_0473,2026-10-22,env_003,cluster_goma_sud,female,25,9,1,61.5,Acceptable,37,9
+hh_0474,2026-09-09,env_001,cluster_masisi_ref,female,26,5,3,46,Acceptable,33,9
+hh_0475,2026-09-15,env_002,cluster_goma_sud,female,61,9,0,36.5,Acceptable,27,2
+hh_0476,2026-09-29,env_003,cluster_goma_nord,male,68,6,3,20,Pauvre (Poor),25,4
+hh_0477,2026-10-10,env_003,cluster_nyiragongo,female,21,6,0,63,Acceptable,25,8
+hh_0478,2026-10-27,env_003,cluster_masisi_ref,female,19,4,4,49,Acceptable,27,6
+hh_0479,2026-09-27,env_001,cluster_goma_nord,female,31,6,0,39,Acceptable,36,7
+hh_0480,2026-10-29,env_002,cluster_masisi_ref,female,63,9,2,71.5,Acceptable,31,6
+hh_0481,2026-09-23,env_001,cluster_masisi_ref,female,42,7,2,75.5,Acceptable,22,7
+hh_0482,2026-09-20,env_002,cluster_masisi_ref,male,35,4,2,37,Acceptable,17,8
+hh_0483,2026-10-25,env_004,cluster_nyiragongo,female,35,4,1,51.5,Acceptable,26,5
+hh_0484,2026-09-16,env_004,cluster_goma_nord,female,49,4,0,76,Acceptable,35,6
+hh_0485,2026-10-17,env_003,cluster_goma_nord,female,26,9,1,54,Acceptable,40,5
+hh_0486,2026-09-13,env_001,cluster_goma_nord,female,35,4,1,39,Acceptable,30,7
+hh_0487,2026-10-24,env_001,cluster_goma_nord,female,25,8,1,63,Acceptable,50,7
+hh_0488,2026-10-31,env_003,cluster_masisi_ref,female,53,4,0,61.5,Acceptable,25,7
+hh_0489,2026-09-16,env_003,cluster_masisi_ref,female,58,5,3,54.5,Acceptable,23,7
+hh_0490,2026-09-27,env_001,cluster_goma_nord,female,42,7,1,52.5,Acceptable,28,6
+hh_0491,2026-09-09,env_003,cluster_goma_sud,female,49,4,1,64.5,Acceptable,31,6
+hh_0492,2026-10-19,env_001,cluster_masisi_ref,male,65,3,1,45,Acceptable,35,6
+hh_0493,2026-10-07,env_005,cluster_goma_sud,female,50,6,1,30.5,Limite (Borderline),33,10
+hh_0494,2026-09-22,env_001,cluster_goma_sud,male,40,7,1,66.5,Acceptable,20,5
+hh_0495,2026-09-28,env_001,cluster_goma_sud,male,55,2,1,41,Acceptable,37,8
+hh_0496,2026-09-27,env_001,cluster_masisi_ref,female,38,4,0,38,Acceptable,17,4
+hh_0497,2026-09-13,env_004,cluster_goma_nord,female,34,8,1,48,Acceptable,22,8
+hh_0498,2026-10-13,env_005,cluster_nyiragongo,female,37,6,0,57,Acceptable,23,4
+hh_0499,2026-09-30,env_002,cluster_goma_sud,female,55,9,1,77,Acceptable,35,7
+hh_0500,2026-09-17,env_003,cluster_goma_sud,female,66,8,0,57,Acceptable,33,7
+hh_0501,2026-10-12,env_003,cluster_nyiragongo,female,40,9,3,65.5,Acceptable,32,4
+hh_0502,2026-10-01,env_003,cluster_masisi_ref,female,59,2,2,45,Acceptable,31,4
+hh_0503,2026-09-29,env_002,cluster_goma_nord,male,68,7,1,49.5,Acceptable,25,4
+hh_0504,2026-09-26,env_005,cluster_masisi_ref,male,40,3,3,54,Acceptable,22,8
+hh_0505,2026-09-12,env_001,cluster_goma_nord,female,46,6,1,28,Limite (Borderline),32,9
+hh_0506,2026-10-17,env_003,cluster_goma_nord,female,72,5,1,68,Acceptable,19,9
+hh_0507,2026-10-04,env_002,cluster_goma_nord,female,68,4,2,51.5,Acceptable,22,4
+hh_0508,2026-09-13,env_003,cluster_goma_nord,male,57,6,3,45,Acceptable,17,7
+hh_0509,2026-10-24,env_004,cluster_masisi_ref,female,61,4,3,40.5,Acceptable,6,7
+hh_0510,2026-10-07,env_001,cluster_nyiragongo,male,57,3,2,38.5,Acceptable,12,6
+hh_0511,2026-10-16,env_001,cluster_nyiragongo,female,26,9,1,47.5,Acceptable,31,7
+hh_0512,2026-09-09,env_005,cluster_nyiragongo,female,32,7,1,31,Limite (Borderline),33,4
+hh_0513,2026-10-24,env_001,cluster_goma_nord,male,35,11,2,71,Acceptable,26,6
+hh_0514,2026-10-25,env_001,cluster_masisi_ref,female,60,7,1,62.5,Acceptable,9,6
+hh_0515,2026-10-06,env_003,cluster_goma_nord,female,75,2,2,49.5,Acceptable,42,6
+hh_0516,2026-09-12,env_003,cluster_goma_nord,male,19,4,2,50,Acceptable,19,6
+hh_0517,2026-10-29,env_002,cluster_goma_nord,female,69,3,1,79,Acceptable,43,6
+hh_0518,2026-09-17,env_001,cluster_masisi_ref,male,36,6,1,64.5,Acceptable,21,6
+hh_0519,2026-11-04,env_002,cluster_goma_sud,female,47,11,1,46,Acceptable,29,8
+hh_0520,2026-09-27,env_002,cluster_goma_sud,female,35,3,1,46.5,Acceptable,18,6
+hh_0521,2026-09-08,env_002,cluster_goma_sud,male,32,4,3,36,Acceptable,21,6
+hh_0522,2026-09-22,env_005,cluster_goma_sud,female,27,3,2,29,Limite (Borderline),36,8
+hh_0523,2026-10-19,env_001,cluster_goma_sud,male,24,5,2,41.5,Acceptable,22,8
+hh_0524,2026-09-12,env_001,cluster_nyiragongo,female,19,6,1,41.5,Acceptable,8,6
+hh_0525,2026-09-12,env_002,cluster_goma_nord,male,74,5,2,42,Acceptable,39,7
+hh_0526,2026-10-01,env_001,cluster_goma_sud,female,69,5,0,31.5,Limite (Borderline),34,7
+hh_0527,2026-10-07,env_001,cluster_goma_nord,female,23,4,1,45.5,Acceptable,34,9
+hh_0528,2026-09-18,env_003,cluster_masisi_ref,male,20,3,2,70.5,Acceptable,32,9
+hh_0529,2026-09-28,env_001,cluster_goma_nord,female,38,4,0,45,Acceptable,28,7
+hh_0530,2026-10-07,env_003,cluster_goma_nord,female,37,5,0,51.5,Acceptable,34,8
+hh_0531,2026-11-03,env_001,cluster_goma_nord,female,51,4,0,47,Acceptable,17,6
+hh_0532,2026-09-29,env_002,cluster_goma_nord,female,41,5,2,73,Acceptable,33,3
+hh_0533,2026-10-05,env_005,cluster_masisi_ref,female,33,4,3,30.5,Limite (Borderline),37,10
+hh_0534,2026-10-23,env_003,cluster_goma_nord,female,31,4,1,39.5,Acceptable,45,6
+hh_0535,2026-09-22,env_004,cluster_goma_nord,female,24,4,1,46.5,Acceptable,37,7
+hh_0536,2026-10-16,env_004,cluster_goma_nord,female,37,7,2,39.5,Acceptable,16,6
+hh_0537,2026-10-16,env_003,cluster_goma_nord,male,31,5,2,48.5,Acceptable,45,7
+hh_0538,2026-10-29,env_002,cluster_goma_nord,female,49,7,2,28.5,Limite (Borderline),30,4
+hh_0539,2026-10-15,env_002,cluster_masisi_ref,female,48,2,2,50.5,Acceptable,12,6
+hh_0540,2026-09-22,env_002,cluster_masisi_ref,male,31,7,1,39.5,Acceptable,31,9
+hh_0541,2026-10-17,env_004,cluster_nyiragongo,male,69,4,1,26,Limite (Borderline),23,5
+hh_0542,2026-09-26,env_005,cluster_nyiragongo,female,30,5,1,52.5,Acceptable,46,5
+hh_0543,2026-10-28,env_001,cluster_goma_nord,female,52,4,1,59,Acceptable,24,6
+hh_0544,2026-10-27,env_001,cluster_masisi_ref,female,27,6,1,51.5,Acceptable,16,5
+hh_0545,2026-09-13,env_004,cluster_goma_sud,male,42,5,0,37,Acceptable,31,7
+hh_0546,2026-10-07,env_001,cluster_goma_sud,female,27,5,1,61,Acceptable,15,8
+hh_0547,2026-09-25,env_004,cluster_goma_nord,female,61,5,2,66.5,Acceptable,49,8
+hh_0548,2026-11-03,env_002,cluster_goma_nord,female,54,10,1,27,Limite (Borderline),31,10
+hh_0549,2026-09-22,env_005,cluster_masisi_ref,male,56,6,3,51.5,Acceptable,26,8
+hh_0550,2026-10-09,env_003,cluster_goma_sud,female,51,12,1,71,Acceptable,28,8
+hh_0551,2026-10-19,env_003,cluster_masisi_ref,female,62,3,1,47.5,Acceptable,38,7
+hh_0552,2026-09-12,env_001,cluster_masisi_ref,female,21,6,1,66.5,Acceptable,23,10
+hh_0553,2026-11-05,env_001,cluster_goma_sud,female,70,4,3,63.5,Acceptable,26,4
+hh_0554,2026-10-28,env_001,cluster_goma_nord,female,70,9,1,32,Limite (Borderline),25,5
+hh_0555,2026-09-26,env_002,cluster_masisi_ref,female,25,9,1,29.5,Limite (Borderline),47,8
+hh_0556,2026-09-18,env_001,cluster_goma_sud,male,61,7,2,27.5,Limite (Borderline),37,3
+hh_0557,2026-11-01,env_002,cluster_masisi_ref,male,47,7,0,45.5,Acceptable,50,6
+hh_0558,2026-10-21,env_002,cluster_goma_sud,female,27,4,2,58.5,Acceptable,11,9
+hh_0559,2026-09-19,env_002,cluster_goma_sud,male,67,5,2,66.5,Acceptable,21,7
+hh_0560,2026-11-04,env_001,cluster_goma_sud,female,46,2,1,41.5,Acceptable,30,6
+hh_0561,2026-10-01,env_002,cluster_nyiragongo,female,55,2,2,41.5,Acceptable,14,4
+hh_0562,2026-10-03,env_004,cluster_goma_sud,female,38,4,1,54.5,Acceptable,30,6
+hh_0563,2026-09-23,env_001,cluster_goma_sud,female,30,11,2,79,Acceptable,32,6
+hh_0564,2026-10-14,env_002,cluster_goma_sud,female,54,4,1,48.5,Acceptable,26,7
+hh_0565,2026-10-30,env_003,cluster_goma_nord,male,35,5,0,49.5,Acceptable,34,5
+hh_0566,2026-09-17,env_005,cluster_goma_sud,male,62,3,2,66.5,Acceptable,23,8
+hh_0567,2026-10-07,env_001,cluster_nyiragongo,male,69,5,1,46,Acceptable,22,6
+hh_0568,2026-10-03,env_003,cluster_nyiragongo,female,28,5,2,29.5,Limite (Borderline),29,8
+hh_0569,2026-10-12,env_005,cluster_goma_sud,female,65,6,0,36.5,Acceptable,42,9
+hh_0570,2026-10-31,env_004,cluster_goma_nord,male,41,6,2,50.5,Acceptable,13,3
+hh_0571,2026-09-08,env_005,cluster_masisi_ref,female,34,6,1,36,Acceptable,28,5
+hh_0572,2026-09-19,env_004,cluster_masisi_ref,female,72,4,2,46.5,Acceptable,26,7
+hh_0573,2026-09-19,env_005,cluster_goma_sud,male,45,4,1,61,Acceptable,14,9
+hh_0574,2026-10-19,env_003,cluster_nyiragongo,female,48,5,1,44.5,Acceptable,23,8
+hh_0575,2026-10-19,env_003,cluster_goma_nord,female,68,4,0,32.5,Limite (Borderline),38,7
+hh_0576,2026-10-18,env_003,cluster_masisi_ref,female,18,2,1,51,Acceptable,11,8
+hh_0577,2026-09-19,env_002,cluster_nyiragongo,female,69,4,2,29,Limite (Borderline),14,7
+hh_0578,2026-09-26,env_005,cluster_goma_nord,female,74,5,0,47,Acceptable,40,7
+hh_0579,2026-10-12,env_002,cluster_masisi_ref,male,27,3,2,57.5,Acceptable,34,5
+hh_0580,2026-11-04,env_001,cluster_goma_sud,female,45,6,0,29,Limite (Borderline),24,7
+hh_0581,2026-09-23,env_001,cluster_goma_nord,female,34,3,2,72,Acceptable,42,6
+hh_0582,2026-10-12,env_001,cluster_goma_nord,male,18,4,2,57.5,Acceptable,27,9
+hh_0583,2026-10-06,env_001,cluster_goma_nord,male,43,7,2,60.5,Acceptable,34,5
+hh_0584,2026-10-01,env_004,cluster_nyiragongo,female,20,3,3,81.5,Acceptable,42,3
+hh_0585,2026-10-09,env_005,cluster_goma_sud,male,41,7,0,43.5,Acceptable,28,6
+hh_0586,2026-09-21,env_005,cluster_masisi_ref,female,32,5,2,55.5,Acceptable,27,7
+hh_0587,2026-10-20,env_002,cluster_goma_sud,male,71,6,1,52,Acceptable,23,3
+hh_0588,2026-09-24,env_003,cluster_goma_sud,female,44,2,3,47.5,Acceptable,13,8
+hh_0589,2026-10-04,env_003,cluster_goma_nord,male,63,6,2,75,Acceptable,27,7
+hh_0590,2026-10-13,env_004,cluster_nyiragongo,female,63,6,2,30.5,Limite (Borderline),22,7
+hh_0591,2026-09-26,env_003,cluster_masisi_ref,female,48,9,1,35,Limite (Borderline),31,4
+hh_0592,2026-11-05,env_005,cluster_goma_nord,female,33,4,2,39.5,Acceptable,16,7
+hh_0593,2026-09-09,env_004,cluster_goma_nord,female,37,2,3,70.5,Acceptable,39,7
+hh_0594,2026-10-14,env_004,cluster_goma_nord,female,68,4,2,60,Acceptable,16,6
+hh_0595,2026-11-04,env_001,cluster_goma_nord,female,71,5,0,30.5,Limite (Borderline),35,5
+hh_0596,2026-10-01,env_005,cluster_masisi_ref,female,52,6,0,17.5,Pauvre (Poor),29,5
+hh_0597,2026-10-18,env_002,cluster_goma_sud,female,31,3,1,55,Acceptable,39,3
+hh_0598,2026-10-18,env_003,cluster_goma_nord,female,55,6,1,48.5,Acceptable,42,4
+hh_0599,2026-09-27,env_003,cluster_goma_sud,male,35,5,0,35,Limite (Borderline),24,8
+hh_0600,2026-10-27,env_003,cluster_masisi_ref,male,74,4,1,73,Acceptable,17,6
+hh_0601,2026-10-13,env_004,cluster_goma_nord,female,69,4,1,54.5,Acceptable,23,9
+hh_0602,2026-09-20,env_004,cluster_goma_sud,female,44,12,1,62.5,Acceptable,22,9
+hh_0603,2026-10-17,env_004,cluster_masisi_ref,male,44,2,1,42,Acceptable,40,5
+hh_0604,2026-10-26,env_005,cluster_goma_nord,female,66,5,2,40,Acceptable,21,6
+hh_0605,2026-09-16,env_002,cluster_goma_sud,male,47,6,1,62,Acceptable,25,7
+hh_0606,2026-10-19,env_005,cluster_goma_nord,female,19,3,1,32,Limite (Borderline),41,4
+hh_0607,2026-09-28,env_003,cluster_goma_nord,female,68,8,2,43.5,Acceptable,13,6
+hh_0608,2026-09-18,env_005,cluster_goma_nord,female,51,2,2,38.5,Acceptable,20,4
+hh_0609,2026-09-17,env_005,cluster_goma_nord,female,35,4,1,54.5,Acceptable,38,7
+hh_0610,2026-09-18,env_004,cluster_goma_sud,female,23,9,1,61.5,Acceptable,44,7
+hh_0611,2026-10-24,env_004,cluster_goma_nord,male,67,6,2,55.5,Acceptable,16,9
+hh_0612,2026-11-05,env_003,cluster_goma_nord,male,48,9,1,34,Limite (Borderline),32,5
+hh_0613,2026-10-15,env_004,cluster_nyiragongo,female,54,5,3,58,Acceptable,34,7
+hh_0614,2026-09-22,env_002,cluster_goma_nord,male,55,3,1,75.5,Acceptable,38,6
+hh_0615,2026-10-12,env_004,cluster_goma_nord,male,23,6,1,65,Acceptable,14,8
+hh_0616,2026-09-25,env_001,cluster_masisi_ref,female,75,5,3,63,Acceptable,28,3
+hh_0617,2026-11-01,env_001,cluster_goma_sud,male,32,7,2,48.5,Acceptable,51,5
+hh_0618,2026-10-03,env_004,cluster_goma_nord,female,25,5,1,33.5,Limite (Borderline),34,7
+hh_0619,2026-10-15,env_005,cluster_goma_nord,male,70,9,0,59,Acceptable,38,2
+hh_0620,2026-10-29,env_002,cluster_goma_nord,female,29,6,1,58,Acceptable,18,3
+hh_0621,2026-10-05,env_004,cluster_goma_sud,female,30,12,3,35.5,Acceptable,28,7
+hh_0622,2026-10-24,env_004,cluster_goma_nord,female,22,5,2,53,Acceptable,27,7
+hh_0623,2026-10-22,env_002,cluster_goma_sud,female,58,6,1,64,Acceptable,35,6
+hh_0624,2026-10-28,env_005,cluster_goma_sud,female,58,5,1,56,Acceptable,12,7
+hh_0625,2026-10-31,env_001,cluster_masisi_ref,female,68,5,0,48.5,Acceptable,41,6
+hh_0626,2026-10-07,env_005,cluster_nyiragongo,female,46,5,2,55,Acceptable,38,8
+hh_0627,2026-10-05,env_005,cluster_goma_sud,female,69,6,1,46.5,Acceptable,39,9
+hh_0628,2026-10-17,env_003,cluster_masisi_ref,male,19,5,1,51.5,Acceptable,35,7
+hh_0629,2026-09-08,env_004,cluster_nyiragongo,female,44,5,2,48.5,Acceptable,41,6
+hh_0630,2026-10-29,env_002,cluster_goma_nord,male,25,2,1,43,Acceptable,28,5
+hh_0631,2026-09-09,env_001,cluster_goma_nord,female,67,6,1,62,Acceptable,21,6
+hh_0632,2026-09-28,env_001,cluster_nyiragongo,female,43,3,1,51.5,Acceptable,42,4
+hh_0633,2026-09-30,env_004,cluster_nyiragongo,female,49,6,1,24,Limite (Borderline),24,7
+hh_0634,2026-11-01,env_004,cluster_nyiragongo,female,27,5,2,63,Acceptable,26,8
+hh_0635,2026-10-29,env_004,cluster_goma_sud,female,40,3,0,79,Acceptable,46,4
+hh_0636,2026-09-29,env_002,cluster_goma_sud,female,45,3,1,35,Limite (Borderline),43,7
+hh_0637,2026-11-02,env_002,cluster_masisi_ref,female,40,4,0,47.5,Acceptable,39,6
+hh_0638,2026-10-05,env_002,cluster_nyiragongo,male,72,4,2,60,Acceptable,30,6
+hh_0639,2026-10-14,env_001,cluster_goma_nord,female,74,7,1,74,Acceptable,44,6
+hh_0640,2026-09-25,env_001,cluster_goma_sud,female,36,6,0,48.5,Acceptable,29,5
+hh_0641,2026-10-21,env_003,cluster_nyiragongo,male,23,9,2,64.5,Acceptable,35,6
+hh_0642,2026-10-08,env_003,cluster_masisi_ref,female,52,6,2,49.5,Acceptable,38,7
+hh_0643,2026-10-17,env_005,cluster_goma_sud,female,66,4,1,55.5,Acceptable,36,6
+hh_0644,2026-10-22,env_001,cluster_masisi_ref,male,68,5,3,28,Limite (Borderline),14,8
+hh_0645,2026-09-21,env_003,cluster_goma_sud,male,71,4,1,65,Acceptable,34,6
+hh_0646,2026-10-01,env_003,cluster_goma_sud,female,55,4,1,47,Acceptable,37,8
+hh_0647,2026-09-21,env_001,cluster_goma_sud,female,39,3,1,52,Acceptable,41,9
+hh_0648,2026-09-18,env_005,cluster_goma_nord,female,37,10,1,41.5,Acceptable,18,6
+hh_0649,2026-10-01,env_003,cluster_goma_sud,male,49,5,3,61.5,Acceptable,36,8
+hh_0650,2026-11-02,env_004,cluster_masisi_ref,female,45,4,1,36.5,Acceptable,34,7
+hh_0651,2026-10-23,env_005,cluster_goma_nord,female,21,6,1,45.5,Acceptable,26,5
+hh_0652,2026-10-14,env_005,cluster_nyiragongo,female,48,2,4,35,Limite (Borderline),26,5
+hh_0653,2026-10-26,env_001,cluster_nyiragongo,male,69,5,1,42,Acceptable,19,6
+hh_0654,2026-09-10,env_005,cluster_goma_sud,female,48,2,2,38.5,Acceptable,31,7
+hh_0655,2026-09-25,env_001,cluster_nyiragongo,female,48,4,0,61,Acceptable,16,4
+hh_0656,2026-10-20,env_001,cluster_goma_sud,female,27,5,2,34.5,Limite (Borderline),22,8
+hh_0657,2026-10-05,env_001,cluster_goma_sud,female,51,11,2,61.5,Acceptable,32,6
+hh_0658,2026-11-02,env_001,cluster_goma_nord,female,31,7,1,50.5,Acceptable,44,6
+hh_0659,2026-10-04,env_002,cluster_goma_sud,female,48,9,1,32.5,Limite (Borderline),28,9
+hh_0660,2026-11-01,env_004,cluster_goma_sud,male,45,7,2,25,Limite (Borderline),19,6
+hh_0661,2026-09-11,env_001,cluster_masisi_ref,female,59,9,2,52,Acceptable,24,8
+hh_0662,2026-10-19,env_001,cluster_goma_nord,male,50,3,1,71,Acceptable,42,6
+hh_0663,2026-09-09,env_003,cluster_goma_nord,female,67,2,1,64.5,Acceptable,35,5
+hh_0664,2026-10-15,env_001,cluster_goma_nord,male,22,8,1,30,Limite (Borderline),24,8
+hh_0665,2026-09-15,env_002,cluster_goma_sud,female,71,8,0,57.5,Acceptable,35,6
+hh_0666,2026-10-06,env_003,cluster_goma_sud,male,74,5,1,56.5,Acceptable,28,6
+hh_0667,2026-09-14,env_005,cluster_nyiragongo,female,32,5,1,73,Acceptable,37,6
+hh_0668,2026-09-14,env_005,cluster_masisi_ref,female,55,4,2,52,Acceptable,19,8
+hh_0669,2026-10-31,env_003,cluster_goma_sud,female,60,2,0,20.5,Pauvre (Poor),27,9
+hh_0670,2026-10-26,env_001,cluster_goma_nord,male,31,10,1,71,Acceptable,21,8
+hh_0671,2026-10-27,env_005,cluster_masisi_ref,female,29,6,3,53,Acceptable,41,6
+hh_0672,2026-10-08,env_002,cluster_nyiragongo,female,33,5,1,49,Acceptable,49,7
+hh_0673,2026-10-16,env_005,cluster_nyiragongo,female,75,5,0,49,Acceptable,27,4
+hh_0674,2026-10-17,env_001,cluster_goma_sud,male,28,3,1,51,Acceptable,26,6
+hh_0675,2026-09-09,env_001,cluster_nyiragongo,female,74,2,2,57.5,Acceptable,34,9
+hh_0676,2026-10-25,env_001,cluster_masisi_ref,female,59,6,1,62,Acceptable,31,4
+hh_0677,2026-10-20,env_002,cluster_masisi_ref,male,59,7,1,50.5,Acceptable,36,5
+hh_0678,2026-10-05,env_003,cluster_goma_sud,male,26,5,2,26,Limite (Borderline),31,2
+hh_0679,2026-09-21,env_005,cluster_goma_nord,female,67,6,1,74,Acceptable,22,6
+hh_0680,2026-09-28,env_003,cluster_goma_sud,female,19,4,2,42,Acceptable,32,4
+hh_0681,2026-09-22,env_001,cluster_goma_sud,male,52,2,2,37,Acceptable,35,5
+hh_0682,2026-10-05,env_003,cluster_goma_nord,male,42,6,2,51.5,Acceptable,44,5
+hh_0683,2026-09-20,env_003,cluster_nyiragongo,male,42,7,1,35.5,Acceptable,22,5
+hh_0684,2026-09-16,env_002,cluster_goma_nord,female,62,4,1,43.5,Acceptable,21,6
+hh_0685,2026-10-29,env_001,cluster_masisi_ref,female,71,5,1,36,Acceptable,31,3
+hh_0686,2026-10-04,env_002,cluster_goma_nord,female,66,5,3,40.5,Acceptable,31,6
+hh_0687,2026-11-04,env_002,cluster_goma_nord,female,47,6,1,66.5,Acceptable,18,7
+hh_0688,2026-09-08,env_003,cluster_goma_nord,female,53,9,1,40,Acceptable,40,8
+hh_0689,2026-10-25,env_004,cluster_goma_nord,female,51,5,3,80,Acceptable,31,7
+hh_0690,2026-10-31,env_004,cluster_goma_nord,female,18,6,1,60,Acceptable,29,5
+hh_0691,2026-09-22,env_002,cluster_masisi_ref,female,65,9,1,73,Acceptable,10,5
+hh_0692,2026-09-24,env_001,cluster_masisi_ref,female,66,7,1,50.5,Acceptable,44,6
+hh_0693,2026-10-06,env_004,cluster_masisi_ref,male,25,10,2,56,Acceptable,15,9
+hh_0694,2026-10-28,env_002,cluster_goma_nord,male,40,8,3,76,Acceptable,31,7
+hh_0695,2026-09-17,env_003,cluster_goma_sud,female,56,5,2,61.5,Acceptable,43,7
+hh_0696,2026-11-01,env_001,cluster_masisi_ref,female,32,3,2,45.5,Acceptable,8,7
+hh_0697,2026-10-20,env_004,cluster_goma_nord,female,73,6,2,37,Acceptable,41,7
+hh_0698,2026-09-22,env_003,cluster_nyiragongo,female,68,4,1,36,Acceptable,25,10
+hh_0699,2026-09-17,env_001,cluster_goma_nord,female,69,4,1,62,Acceptable,42,6
+hh_0700,2026-10-14,env_004,cluster_goma_nord,female,29,6,0,27.5,Limite (Borderline),32,6
+hh_0701,2026-09-13,env_005,cluster_masisi_ref,female,56,8,2,41.5,Acceptable,26,5
+hh_0702,2026-09-28,env_003,cluster_goma_sud,female,40,7,1,43.5,Acceptable,33,7
+hh_0703,2026-10-23,env_001,cluster_goma_nord,female,41,4,0,8,Pauvre (Poor),23,7
+hh_0704,2026-10-05,env_001,cluster_goma_sud,male,47,5,0,46,Acceptable,35,6
+hh_0705,2026-09-16,env_003,cluster_goma_sud,male,59,6,1,71.5,Acceptable,48,6
+hh_0706,2026-09-24,env_005,cluster_nyiragongo,female,50,7,3,56,Acceptable,32,6
+hh_0707,2026-11-02,env_004,cluster_nyiragongo,female,43,6,4,55.5,Acceptable,29,6
+hh_0708,2026-10-25,env_004,cluster_goma_nord,female,67,5,0,72,Acceptable,41,5
+hh_0709,2026-09-14,env_003,cluster_goma_sud,male,70,5,2,39.5,Acceptable,18,7
+hh_0710,2026-10-27,env_005,cluster_goma_nord,female,38,7,2,61,Acceptable,17,6
+hh_0711,2026-09-26,env_002,cluster_goma_sud,female,65,4,1,38,Acceptable,24,5
+hh_0712,2026-10-15,env_002,cluster_goma_sud,male,59,3,1,58,Acceptable,28,5
+hh_0713,2026-09-15,env_005,cluster_masisi_ref,female,40,5,1,28,Limite (Borderline),31,6
+hh_0714,2026-10-12,env_003,cluster_goma_sud,female,74,3,0,38,Acceptable,32,5
+hh_0715,2026-11-02,env_004,cluster_goma_sud,female,26,5,3,40.5,Acceptable,31,8
+hh_0716,2026-09-13,env_002,cluster_masisi_ref,male,35,6,1,73.5,Acceptable,18,6
+hh_0717,2026-10-22,env_005,cluster_goma_sud,female,51,4,4,48.5,Acceptable,32,5
+hh_0718,2026-10-25,env_005,cluster_masisi_ref,male,22,4,2,34,Limite (Borderline),19,5
+hh_0719,2026-09-18,env_002,cluster_goma_sud,male,49,5,1,38,Acceptable,26,4
+hh_0720,2026-10-01,env_003,cluster_goma_sud,female,18,3,1,38.5,Acceptable,29,5
+hh_0721,2026-10-21,env_001,cluster_nyiragongo,female,43,2,1,52.5,Acceptable,39,8
+hh_0722,2026-09-19,env_004,cluster_goma_sud,female,51,2,2,52.5,Acceptable,35,6
+hh_0723,2026-10-31,env_001,cluster_goma_sud,female,23,6,1,43.5,Acceptable,17,5
+hh_0724,2026-10-09,env_001,cluster_masisi_ref,female,49,3,1,57,Acceptable,24,8
+hh_0725,2026-10-16,env_003,cluster_nyiragongo,female,59,6,1,32,Limite (Borderline),37,6
+hh_0726,2026-11-01,env_002,cluster_nyiragongo,male,57,4,3,34,Limite (Borderline),30,7
+hh_0727,2026-09-17,env_003,cluster_goma_sud,female,36,7,3,80,Acceptable,16,5
+hh_0728,2026-11-04,env_005,cluster_goma_sud,female,72,8,1,72,Acceptable,45,5
+hh_0729,2026-10-22,env_001,cluster_masisi_ref,female,70,4,1,32.5,Limite (Borderline),12,5
+hh_0730,2026-10-18,env_005,cluster_nyiragongo,female,33,7,2,72.5,Acceptable,15,8
+hh_0731,2026-10-23,env_004,cluster_masisi_ref,female,28,3,1,62.5,Acceptable,28,8
+hh_0732,2026-09-19,env_005,cluster_goma_nord,female,18,7,1,34,Limite (Borderline),32,2
+hh_0733,2026-09-11,env_005,cluster_goma_nord,female,50,9,1,74,Acceptable,30,6
+hh_0734,2026-10-15,env_004,cluster_goma_nord,female,28,5,0,21,Pauvre (Poor),28,6
+hh_0735,2026-09-20,env_005,cluster_goma_nord,female,71,4,1,63,Acceptable,38,6
+hh_0736,2026-10-18,env_004,cluster_goma_sud,male,41,4,1,51.5,Acceptable,47,7
+hh_0737,2026-09-18,env_004,cluster_goma_nord,female,66,5,1,56.5,Acceptable,16,9
+hh_0738,2026-09-12,env_003,cluster_nyiragongo,female,48,5,0,40,Acceptable,22,6
+hh_0739,2026-10-17,env_002,cluster_goma_nord,female,68,11,2,52.5,Acceptable,33,7
+hh_0740,2026-09-19,env_005,cluster_goma_sud,female,43,7,1,47.5,Acceptable,11,8
+hh_0741,2026-10-25,env_001,cluster_goma_nord,female,37,4,1,69,Acceptable,39,4
+hh_0742,2026-09-30,env_005,cluster_goma_sud,male,51,5,1,70,Acceptable,41,4
+hh_0743,2026-10-28,env_004,cluster_nyiragongo,female,35,7,0,37,Acceptable,26,5
+hh_0744,2026-10-21,env_002,cluster_nyiragongo,female,40,5,4,34.5,Limite (Borderline),37,8
+hh_0745,2026-09-11,env_003,cluster_goma_nord,female,46,2,0,56.5,Acceptable,15,6
+hh_0746,2026-09-22,env_003,cluster_goma_nord,female,50,6,0,59.5,Acceptable,23,7
+hh_0747,2026-10-23,env_004,cluster_goma_sud,female,51,6,2,48.5,Acceptable,45,5
+hh_0748,2026-09-30,env_002,cluster_masisi_ref,female,45,10,3,55,Acceptable,33,5
+hh_0749,2026-10-24,env_005,cluster_masisi_ref,male,31,5,2,22.5,Limite (Borderline),31,4
+hh_0750,2026-10-02,env_002,cluster_goma_sud,female,75,4,2,47.5,Acceptable,36,6
+hh_0751,2026-09-15,env_003,cluster_nyiragongo,female,59,5,2,55.5,Acceptable,12,6
+hh_0752,2026-10-10,env_003,cluster_goma_sud,male,29,4,1,70.5,Acceptable,15,7
+hh_0753,2026-09-12,env_004,cluster_goma_nord,male,54,5,1,55,Acceptable,28,7
+hh_0754,2026-10-27,env_002,cluster_goma_sud,female,71,8,3,67.5,Acceptable,36,3
+hh_0755,2026-09-17,env_004,cluster_goma_nord,male,41,5,1,67.5,Acceptable,40,5
+hh_0756,2026-10-19,env_002,cluster_nyiragongo,female,43,5,2,58,Acceptable,26,5
+hh_0757,2026-10-28,env_004,cluster_goma_nord,female,48,10,2,49,Acceptable,26,6
+hh_0758,2026-10-21,env_005,cluster_nyiragongo,female,36,5,3,41,Acceptable,29,5
+hh_0759,2026-10-27,env_005,cluster_goma_nord,male,72,4,1,66.5,Acceptable,32,3
+hh_0760,2026-10-24,env_001,cluster_goma_nord,female,46,7,1,58.5,Acceptable,29,4
+hh_0761,2026-09-19,env_002,cluster_masisi_ref,female,69,4,1,52,Acceptable,12,6
+hh_0762,2026-10-19,env_004,cluster_goma_sud,female,19,5,1,73,Acceptable,39,6
+hh_0763,2026-09-27,env_004,cluster_nyiragongo,female,21,7,1,48,Acceptable,47,6
+hh_0764,2026-10-28,env_001,cluster_goma_sud,female,61,5,2,34.5,Limite (Borderline),36,7
+hh_0765,2026-10-08,env_003,cluster_goma_nord,female,66,5,2,45,Acceptable,40,6
+hh_0766,2026-09-29,env_005,cluster_goma_nord,male,72,4,1,42,Acceptable,23,6
+hh_0767,2026-09-18,env_005,cluster_nyiragongo,female,69,4,1,49,Acceptable,46,6
+hh_0768,2026-09-11,env_004,cluster_masisi_ref,female,42,4,1,47.5,Acceptable,28,9
+hh_0769,2026-09-29,env_001,cluster_nyiragongo,female,23,6,2,47.5,Acceptable,38,6
+hh_0770,2026-11-03,env_003,cluster_goma_nord,male,49,5,1,46.5,Acceptable,40,7
+hh_0771,2026-10-23,env_002,cluster_goma_nord,female,46,5,0,64.5,Acceptable,33,4
+hh_0772,2026-09-30,env_001,cluster_goma_nord,female,42,5,0,33.5,Limite (Borderline),14,9
+hh_0773,2026-09-26,env_002,cluster_goma_sud,female,29,5,0,59,Acceptable,25,4
+hh_0774,2026-10-06,env_003,cluster_nyiragongo,female,48,6,1,50.5,Acceptable,21,3
+hh_0775,2026-09-12,env_001,cluster_goma_sud,female,18,5,1,45,Acceptable,49,8
+hh_0776,2026-09-24,env_004,cluster_nyiragongo,female,20,5,2,52,Acceptable,41,6
+hh_0777,2026-09-21,env_001,cluster_nyiragongo,male,54,5,1,30.5,Limite (Borderline),30,6
+hh_0778,2026-09-09,env_005,cluster_masisi_ref,female,51,4,0,30.5,Limite (Borderline),38,7
+hh_0779,2026-09-21,env_002,cluster_nyiragongo,female,71,3,3,50,Acceptable,34,6
+hh_0780,2026-09-12,env_002,cluster_masisi_ref,female,64,2,2,51.5,Acceptable,36,7
+hh_0781,2026-10-06,env_003,cluster_nyiragongo,female,55,4,3,51.5,Acceptable,30,6
+hh_0782,2026-11-02,env_002,cluster_goma_sud,male,65,4,1,31.5,Limite (Borderline),20,5
+hh_0783,2026-10-19,env_005,cluster_goma_sud,female,64,7,1,80,Acceptable,35,4
+hh_0784,2026-11-05,env_003,cluster_goma_nord,female,36,11,0,42.5,Acceptable,24,7
+hh_0785,2026-10-20,env_004,cluster_masisi_ref,female,18,5,2,26.5,Limite (Borderline),49,6
+hh_0786,2026-10-03,env_001,cluster_goma_nord,male,62,12,1,53.5,Acceptable,40,6
+hh_0787,2026-10-05,env_003,cluster_goma_sud,male,51,4,1,56,Acceptable,22,7
+hh_0788,2026-10-13,env_004,cluster_nyiragongo,female,44,12,1,49.5,Acceptable,32,8
+hh_0789,2026-10-10,env_002,cluster_goma_nord,female,42,8,1,43.5,Acceptable,22,6
+hh_0790,2026-10-21,env_003,cluster_goma_nord,female,47,4,3,47,Acceptable,30,8
+hh_0791,2026-10-08,env_005,cluster_goma_nord,female,51,5,0,56.5,Acceptable,21,6
+hh_0792,2026-10-02,env_002,cluster_goma_nord,male,74,11,1,59.5,Acceptable,41,5
+hh_0793,2026-10-18,env_005,cluster_goma_sud,female,34,9,1,36.5,Acceptable,17,5
+hh_0794,2026-09-18,env_001,cluster_goma_sud,female,21,8,1,72.5,Acceptable,28,8
+hh_0795,2026-10-05,env_002,cluster_masisi_ref,male,48,4,2,48.5,Acceptable,35,6
+hh_0796,2026-10-07,env_002,cluster_masisi_ref,male,59,5,2,39,Acceptable,27,9
+hh_0797,2026-10-08,env_003,cluster_goma_nord,female,28,6,3,64,Acceptable,33,7
+hh_0798,2026-09-22,env_004,cluster_goma_nord,male,46,5,3,69,Acceptable,41,7
+hh_0799,2026-09-18,env_004,cluster_goma_nord,female,68,6,1,51.5,Acceptable,28,6
+hh_0800,2026-10-17,env_001,cluster_goma_sud,male,45,4,1,68.5,Acceptable,33,6

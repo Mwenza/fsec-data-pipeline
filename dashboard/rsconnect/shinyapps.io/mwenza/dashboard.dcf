@@ -1,0 +1,12 @@
+name: dashboard
+title: dashboard
+username: mwenza
+account: mwenza
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18382520
+bundleId: 12789301
+url: https://mwenza.shinyapps.io/dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

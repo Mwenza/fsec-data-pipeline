@@ -11,7 +11,7 @@ pacman::p_load(shiny, bslib, tidyverse, plotly, DT, janitor)
 
 # 2. Chargement du dataset maître généré par le pipeline
 # (Chemin ajusté selon l'emplacement du fichier app.R dans le dossier dashboard)
-data_path <- "../outputs/fsec_master_dataset.csv"
+data_path <- "fsec_master_dataset.csv"
 
 if (!file.exists(data_path)) {
   stop("ERREUR : Le dataset maître est introuvable. Veuillez exécuter le pipeline R d'abord.")
