@@ -18,10 +18,11 @@ Il intègre les standards méthodologiques du PAM (Programme WFP) et de la FAO p
   - `07_generate_figures.R` : Génération automatisée des graphiques analytiques (`ggplot2`).
 - **`dashboard/`** : 
   - `app.R` : Tableau de bord interactif **R Shiny** (filtrage dynamique, value boxes, graphiques `plotly` et tables `DT`).
+- **`reports/`** : Rapports narratifs et synthèses analytiques du projet.
+- **`tests/`** : Scripts de tests unitaires pour la validation de la qualité des données.
 - **`xlsform/`** : Modèle de formulaire KoboToolbox validé pour la collecte terrain.
 - **`outputs/`** : Rapports d'anomalies DQA, tableaux de synthèse et graphiques exportés.
 - **`data/`** : Jeux de données simulés (bruts et traités aux formats CSV/RDS).
-
 ---
 
 ## ⚙️ Prérequis et Utilisation
